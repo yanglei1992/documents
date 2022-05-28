@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T09:37:49.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="QkdyCvTGhX-2mA0_gp2Q" version="18.1.3" type="github" pages="6">
-  <diagram id="YVaQByqGfkareMAY_nM6" name="kafka基础架构">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:38:36.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="-CL7mqMWixcU6U22JVCE" version="18.1.3" type="github" pages="7">
+  <diagram id="YVaQByqGfkareMAY_nM6" name="01 kafka基础架构">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -169,7 +169,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="df3xZz75t7QaS7L6ZFp4" name="kafka生产者发送消息流程">
+  <diagram id="df3xZz75t7QaS7L6ZFp4" name="02 kafka生产者发送消息流程">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -488,7 +488,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XSgAQ8k4E4QCslHqcjzD" name="Kafka Broker目录">
+  <diagram id="XSgAQ8k4E4QCslHqcjzD" name="03 Kafka Broker目录">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -687,7 +687,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jXRbEsJjeOaGji-cOaR5" name="Kafka Broker总体工作流程">
+  <diagram id="jXRbEsJjeOaGji-cOaR5" name="04 Kafka Broker总体工作流程">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -695,7 +695,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="y5MCf_rimkxbQbm3HeVU" name="Kafka 消费方式">
+  <diagram id="y5MCf_rimkxbQbm3HeVU" name="05 Kafka 消费方式">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -794,8 +794,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7xzO-YrONTpCK03IxzGZ" name="消费者总体工作流程">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="7xzO-YrONTpCK03IxzGZ" name="06 消费者总体工作流程">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1011,6 +1011,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eeAClpt7NOO1_LJxoYGr" name="07 消费者组初始化流程">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
