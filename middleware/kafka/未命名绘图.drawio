@@ -1,4 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T10:27:31.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="loZY6LNY6ayh-F4pHYU6" version="18.1.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-29T11:43:41.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="3K5EEhZDlNcFwTBmjjqv" version="18.1.3" type="github" pages="9">
+  <diagram id="43zNaNNezeLPVIAxyVDb" name="00 kafka总览">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="YVaQByqGfkareMAY_nM6" name="01 kafka基础架构">
     <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1015,7 +1023,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eeAClpt7NOO1_LJxoYGr" name="07 消费者组初始化流程">
-    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
