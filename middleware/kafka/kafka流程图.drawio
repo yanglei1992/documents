@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T00:35:23.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="U4TDMTy5Ci5at-TIDMGq" version="18.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-10T01:57:17.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="bXQQaxVUxejHpea2ae8m" version="19.0.1" type="github" pages="9">
   <diagram id="43zNaNNezeLPVIAxyVDb" name="00 kafka总览">
-    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="df3xZz75t7QaS7L6ZFp4" name="02 kafka生产者发送消息流程">
-    <mxGraphModel dx="1022" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,6 +296,9 @@
               <mxPoint x="630" y="473" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L4bbH6--Cca79L0l9a3n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qqlyd_sDcNi6fESpQ9cy-37" target="qqlyd_sDcNi6fESpQ9cy-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qqlyd_sDcNi6fESpQ9cy-37" value="Sender&lt;br/&gt;(读取数据)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="701" y="165" width="97.5" height="27" as="geometry" />
@@ -497,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XSgAQ8k4E4QCslHqcjzD" name="03 Kafka Broker目录">
-    <mxGraphModel dx="1022" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,92 +699,92 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jXRbEsJjeOaGji-cOaR5" name="04 Kafka Broker总体工作流程">
-    <mxGraphModel dx="852" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FXR9-RUvBSfXbiI6Rf38-1" value="zookeeper" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="FXR9-RUvBSfXbiI6Rf38-1" value="zookeeper" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="180" y="60" width="610" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FXR9-RUvBSfXbiI6Rf38-2" value="/brokers/ids&amp;nbsp; [0,1,2]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="FXR9-RUvBSfXbiI6Rf38-2" value="/brokers/ids&amp;nbsp; [0,1,2]" style="rounded=0;whiteSpace=wrap;html=1;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FXR9-RUvBSfXbiI6Rf38-3" value="controller &quot;broker&quot;:0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="FXR9-RUvBSfXbiI6Rf38-3" value="controller &quot;broker&quot;:0" style="rounded=0;whiteSpace=wrap;html=1;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="180" y="40" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FXR9-RUvBSfXbiI6Rf38-4" value="/brekoer/topics/first/partitions/0/state&lt;br&gt;&quot;leader&quot;:0 , &quot;isr&quot;:[0,1,2]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="FXR9-RUvBSfXbiI6Rf38-4" value="/brekoer/topics/first/partitions/0/state&lt;br&gt;&quot;leader&quot;:0 , &quot;isr&quot;:[0,1,2]" style="rounded=0;whiteSpace=wrap;html=1;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="340" y="40" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--14" value="1) broker 启动后&lt;br&gt;在zk中注册" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--14" value="1) broker 启动后&lt;br&gt;在zk中注册" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="20" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--15" value="2) controller谁先注册&lt;br&gt;&amp;nbsp;， 谁说了算" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--15" value="2) controller谁先注册&lt;br&gt;&amp;nbsp;， 谁说了算" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="180" y="90" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--19" value="5) Controller将节点信息上传到zk" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FXR9-RUvBSfXbiI6Rf38-1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--19" value="5) Controller将节点信息上传到zk" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="FXR9-RUvBSfXbiI6Rf38-1" vertex="1">
           <mxGeometry x="380" y="100" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--2" value="kafka cluster" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--2" value="kafka cluster" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="180" y="260" width="660" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--3" value="broker0&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--3" value="broker0&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="25" y="40" width="530" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--6" value="TopicA-partition0&lt;br&gt;leader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--6" value="TopicA-partition0&lt;br&gt;leader" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="40" y="60" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--7" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--7" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="220" y="55" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--8" value="broker1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--8" value="broker1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="25" y="130" width="530" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--9" value="TopicA-partition0&lt;br&gt;follower" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--9" value="TopicA-partition0&lt;br&gt;follower" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="40" y="150" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--10" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--10" value="controller" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="220" y="145" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--11" value="broker2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--11" value="broker2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="25" y="220" width="530" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--12" value="TopicA-partition0&lt;br&gt;follower" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--12" value="TopicA-partition0&lt;br&gt;follower" style="rounded=0;whiteSpace=wrap;html=1;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="40" y="240" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--18" value="4) controller决定leader选举 ，&lt;br&gt;并监听brokers节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--18" value="4) controller决定leader选举 ，&lt;br&gt;并监听brokers节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="190" y="110" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--21" value="6) 其他Controller从zk同步相关信息" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--21" value="6) 其他Controller从zk同步相关信息" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="460" y="245" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--24" value="8) controller监听到节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--24" value="8) controller监听到节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="340" y="65" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--26" value="10) 选举新的Leader（在isr中存活为前提&lt;br&gt;按照AR中排在前面的优先）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Nm1ozOE1AMhiNZTPJWH--2">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--26" value="10) 选举新的Leader（在isr中存活为前提&lt;br&gt;按照AR中排在前面的优先）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nm1ozOE1AMhiNZTPJWH--2" vertex="1">
           <mxGeometry x="360" y="150" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--16" value="3) 由选举出来的controller&lt;br&gt;监听brokers节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--16" value="3) 由选举出来的controller&lt;br&gt;监听brokers节点变化" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="210" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--23" value="7) 假设 breker1中leader挂了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--23" value="7) 假设 breker1中leader挂了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="340" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--25" value="9) 获取ISR" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--25" value="9) 获取ISR" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="570" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--28" value="11）更新Leader及isr" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--28" value="11）更新Leader及isr" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="215" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--29" value="AR:kafka中所有副本的统称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--29" value="AR:kafka中所有副本的统称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="20" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--30" value="&lt;br&gt;&lt;br&gt;kafka Producer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--30" value="&lt;br&gt;&lt;br&gt;kafka Producer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="390" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--31" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--31" value="2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="395" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm1ozOE1AMhiNZTPJWH--32" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm1ozOE1AMhiNZTPJWH--32" value="1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="395" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
