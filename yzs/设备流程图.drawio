@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T09:52:57.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="4W5hOFoR2z9cnavftOlF" version="18.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-19T06:45:10.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g1Xxyns_pPladjXzMuG4" version="20.2.4" type="github" pages="4">
   <diagram id="uhrIDNIf7qwQoyt4KmRS" name="设备拓扑">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,10 +457,34 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IIHzgTZZQpOI1J2cLflT" name="第 4 页">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V4lOG10ohuE03VzAjMsF-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-2" value="Lane 1" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-1">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-3" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-1">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-1">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-5" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="360" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-6" value="利尔达APP" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-5">
+          <mxGeometry y="20" width="120" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-7" value="Lane 2" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-5">
+          <mxGeometry x="120" y="20" width="120" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="V4lOG10ohuE03VzAjMsF-8" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="V4lOG10ohuE03VzAjMsF-5">
+          <mxGeometry x="240" y="20" width="120" height="990" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
