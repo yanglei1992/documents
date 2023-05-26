@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:07:33.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ViTRttZkDGhBSrsNEm2s" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:08:44.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u5d5bTkSi9mbdeTyrM0a" version="21.3.3" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1436" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,13 +66,19 @@
           <mxGeometry x="150" y="285" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-31" value="设备控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="280" width="80" height="90" as="geometry" />
+          <mxGeometry x="900" y="290" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-33" value="传输控制？？&lt;br&gt;消息下发控制下发逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="10" width="95" height="90" as="geometry" />
+          <mxGeometry x="603.75" y="20" width="95" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-36" value="设备控制协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="616.25" y="300" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEf120TzHeJ7vrePYZAw-37" value="时钟系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MEf120TzHeJ7vrePYZAw-38" value="时钟系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="420" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
