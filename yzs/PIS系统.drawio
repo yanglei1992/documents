@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T10:05:54.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X3DCiGb2ZtKioV-kbX6J" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T10:07:33.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ViTRttZkDGhBSrsNEm2s" version="21.3.3" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1436" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="MEf120TzHeJ7vrePYZAw-13" value="OTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-17" value="升级包拉取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="585" width="80" height="30" as="geometry" />
+        <mxCell id="MEf120TzHeJ7vrePYZAw-17" value="升级包拉取（断点续传）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-18" value="通知升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="530" width="70" height="30" as="geometry" />
@@ -59,14 +59,20 @@
         <mxCell id="MEf120TzHeJ7vrePYZAw-29" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="160" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MEf120TzHeJ7vrePYZAw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MEf120TzHeJ7vrePYZAw-30" target="MEf120TzHeJ7vrePYZAw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-30" value="设备控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="110" height="80" as="geometry" />
+          <mxGeometry x="150" y="285" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-31" value="设备控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="275" width="80" height="90" as="geometry" />
+          <mxGeometry x="910" y="280" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-33" value="传输控制？？&lt;br&gt;消息下发控制下发逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="10" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MEf120TzHeJ7vrePYZAw-36" value="设备控制协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="300" width="82.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
