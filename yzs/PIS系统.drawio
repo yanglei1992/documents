@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T09:50:24.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k_SMqwViMW1N7pcmU0a4" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T09:50:46.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="M7Nt3qClFDbyZrxi6mYp" version="21.3.3" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1436" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,14 @@
         <mxCell id="MEf120TzHeJ7vrePYZAw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="760" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MEf120TzHeJ7vrePYZAw-6" value="消息推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="760" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MEf120TzHeJ7vrePYZAw-10" value="消息推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
