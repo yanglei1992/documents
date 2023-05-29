@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T07:08:53.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GUfhwGPVoPSOpFL6b8Xg" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T07:13:58.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lycyWrvwUGgNKD5LDOdc" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1942" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,37 +49,26 @@
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-20" value="临时紧急消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="638.37" y="1300" width="91.63" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-21" target="FDIz5WSHnkQEFrHZKm8G-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="639.75" y="1590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="1510" />
-              <mxPoint x="702" y="1510" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDIz5WSHnkQEFrHZKm8G-21" target="FDIz5WSHnkQEFrHZKm8G-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-21" value="消息审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="569.75" y="1410" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-22" target="FDIz5WSHnkQEFrHZKm8G-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="775" y="1510" />
-              <mxPoint x="702" y="1510" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDIz5WSHnkQEFrHZKm8G-22" target="lnaJndpBKy_KP0AAHM30-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-22" value="实时信息ATS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="729.75" y="1300" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-27" target="FDIz5WSHnkQEFrHZKm8G-29" edge="1">
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-27" target="FDIz5WSHnkQEFrHZKm8G-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-27" value="信息转发&lt;br&gt;（数据保存，数据日志）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="631.69" y="1637" width="140" height="59" as="geometry" />
+          <mxGeometry x="599.75" y="1639.5" width="80" height="61" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-29" value="终端入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.69" y="1930" width="116" height="60" as="geometry" />
+          <mxGeometry x="650" y="1930" width="109.69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-31" target="FDIz5WSHnkQEFrHZKm8G-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -142,7 +131,7 @@
           <mxGeometry x="1702" y="1930" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="1 车站发布临时消息的功能，指定账号才可发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="569.75" y="1585" width="140" height="35" as="geometry" />
+          <mxGeometry x="555.25" y="1545" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-17" value="车站系统控制设备功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1690" y="1570" width="80" height="50" as="geometry" />
@@ -156,8 +145,8 @@
         <mxCell id="lnaJndpBKy_KP0AAHM30-24" value="拉取OTA包&lt;br&gt;（立即拉取/闲时拉取）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1640" width="127" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lnaJndpBKy_KP0AAHM30-25" value="信息推送终端设备区分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="648" y="1480" width="131.38" height="35" as="geometry" />
+        <mxCell id="lnaJndpBKy_KP0AAHM30-25" value="推送指定车站的ATS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715.37" y="1490" width="129.38" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-27" value="车站服务器有编辑修改版式与修改消息的权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="512.31" y="1730" width="131.38" height="35" as="geometry" />
@@ -181,7 +170,7 @@
           <mxGeometry x="930" y="1560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-37" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="683.69" y="1560" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="1580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-39" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1151" y="1560" width="60" height="30" as="geometry" />
@@ -215,6 +204,20 @@
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-46" value="设备发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="1395" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnaJndpBKy_KP0AAHM30-51" target="FDIz5WSHnkQEFrHZKm8G-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="1810" />
+              <mxPoint x="732" y="1810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-51" value="数据日志）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="733.31" y="1654" width="82.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-54" value="tcp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="756.18" y="1560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
