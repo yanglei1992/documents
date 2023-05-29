@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T08:15:39.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zvD0f2hKgFxLfUb_l1z6" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T08:16:09.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jtSfzLgjgIej43PLva7Y" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2352" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,8 @@
         <mxCell id="lnaJndpBKy_KP0AAHM30-11" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201.5" y="1925" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="1 车站发布临时消息的功能，指定账号才可发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660.75" y="1540" width="140" height="35" as="geometry" />
+        <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="1 车站发布临时消息的功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660.75" y="1540" width="79.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-17" value="车站系统控制设备功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1189.5" y="1565" width="80" height="50" as="geometry" />
