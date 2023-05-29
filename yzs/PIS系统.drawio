@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T02:44:10.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kZ39LXW5haxrJYNVNnjg" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T04:38:26.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i2KyD4xdbrDJwE7MppTd" version="21.3.4" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,6 +130,15 @@
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-3" value="中间层是否需要显示设备状态？&lt;br&gt;实时状态？？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499.75" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1010" width="800" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;终端设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1640" width="800" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车站系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1640" width="800" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
