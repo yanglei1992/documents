@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:35:31.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mHSLMZ3ckGjuc_Y5zcWt" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T05:38:06.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_5lgUMl5S2EO-nOEv-IO" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1210" width="1510" height="250" as="geometry" />
+          <mxGeometry x="250" y="1210" width="1850" height="270" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;终端设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1850" width="1520" height="250" as="geometry" />
+          <mxGeometry x="250" y="1850" width="1860" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车站系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="1540" width="1520" height="250" as="geometry" />
+          <mxGeometry x="245" y="1540" width="1865" height="250" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="40" width="430" height="750" as="geometry" />
@@ -158,13 +158,13 @@
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-18" value="消息推送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485.25" y="1270" width="264.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-19" target="FDIz5WSHnkQEFrHZKm8G-21" edge="1">
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-19" target="FDIz5WSHnkQEFrHZKm8G-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-19" value="预先定义好的运营消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485.25" y="1300" width="84.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-20" target="FDIz5WSHnkQEFrHZKm8G-21" edge="1">
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-20" target="FDIz5WSHnkQEFrHZKm8G-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-20" value="紧急消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -239,13 +239,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-2" value="OTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1920" width="132" height="60" as="geometry" />
+          <mxGeometry x="1230" y="1930" width="132" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnaJndpBKy_KP0AAHM30-3" target="FDIz5WSHnkQEFrHZKm8G-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-3" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1448" y="1930" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnaJndpBKy_KP0AAHM30-9" target="lnaJndpBKy_KP0AAHM30-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-9" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1270" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lnaJndpBKy_KP0AAHM30-10" target="lnaJndpBKy_KP0AAHM30-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-10" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1620" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-11" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1930" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
