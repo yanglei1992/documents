@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T01:41:34.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4VrwWdB_5WcAbUzi0ASO" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T02:43:09.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MdOvMqQeibkOH3PtlR34" version="21.3.4" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MEf120TzHeJ7vrePYZAw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="40" width="480" height="770" as="geometry" />
+          <mxGeometry x="750" y="40" width="480" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="420" height="760" as="geometry" />
+          <mxGeometry x="40" y="40" width="430" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-6" value="消息推送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="90" width="110" height="80" as="geometry" />
@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-12" value="OTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="MEf120TzHeJ7vrePYZAw-13" target="MEf120TzHeJ7vrePYZAw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-13" value="OTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-17" value="升级包拉取（断点续传）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="544.75" y="579" width="160" height="30" as="geometry" />
+          <mxGeometry x="504.75" y="879" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-18" value="通知升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="571.25" y="533" width="70" height="30" as="geometry" />
+          <mxGeometry x="531.25" y="833" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-23" value="紧急消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="70" height="40" as="geometry" />
@@ -64,22 +64,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-30" value="设备控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="285" width="110" height="80" as="geometry" />
+          <mxGeometry x="110" y="585" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-31" value="设备控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="290" width="100" height="70" as="geometry" />
+          <mxGeometry x="860" y="590" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-36" value="设备控制协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="583.5" y="300" width="82.5" height="30" as="geometry" />
+          <mxGeometry x="543.5" y="600" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MEf120TzHeJ7vrePYZAw-37" target="MEf120TzHeJ7vrePYZAw-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-37" value="时钟系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="110" y="720" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-38" value="时钟系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="420" width="110" height="60" as="geometry" />
+          <mxGeometry x="860" y="720" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MEf120TzHeJ7vrePYZAw-41" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -93,7 +93,7 @@
           <mxGeometry x="343" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-46" value="时钟同步协议？？中间件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="577.25" y="420" width="82.5" height="30" as="geometry" />
+          <mxGeometry x="537.25" y="720" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEf120TzHeJ7vrePYZAw-47" value="中间层优势，如果终端特别多的情况下，主控下发任务到中间层控制后，主控层不需要管后续控制逻辑," style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="568.37" y="-150" width="112.75" height="90" as="geometry" />
@@ -120,16 +120,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-1" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-2" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDIz5WSHnkQEFrHZKm8G-3" target="FDIz5WSHnkQEFrHZKm8G-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-3" value="中间层是否需要显示设备状态？&lt;br&gt;实时状态？？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539.75" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="499.75" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
