@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:59:03.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kKULw_NKE8eGOaxSwhjt" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T06:10:17.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p7vgVY0eSPdOuYrU6509" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-13" target="FDIz5WSHnkQEFrHZKm8G-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-13" value="版式设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-13" value="版式设计&lt;br&gt;（数据保存）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="343" y="1651" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-15" value="版式设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -196,8 +196,8 @@
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-27" target="FDIz5WSHnkQEFrHZKm8G-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDIz5WSHnkQEFrHZKm8G-27" value="信息转发&lt;br&gt;（数据日志）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1651" width="123.37" height="60" as="geometry" />
+        <mxCell id="FDIz5WSHnkQEFrHZKm8G-27" value="信息转发&lt;br&gt;（数据保存，数据日志）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="561.69" y="1653" width="140" height="59" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-29" value="终端入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="573.69" y="1930" width="116" height="60" as="geometry" />
@@ -262,8 +262,8 @@
         <mxCell id="lnaJndpBKy_KP0AAHM30-11" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1692" y="1930" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="车站发布临时消息的功能，指定账号才可发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540.87" y="1605" width="131.38" height="35" as="geometry" />
+        <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="1 车站发布临时消息的功能，指定账号才可发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537.25" y="1600" width="131.38" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-17" value="车站系统控制设备功能？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1670" y="1570" width="80" height="50" as="geometry" />
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-26" value="设备主动上报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1651" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-27" value="车站服务器有编辑修改版式与修改消息的权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442.31" y="1730" width="131.38" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
