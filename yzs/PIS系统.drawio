@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:52:25.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CjsG3zGNV3fB47kCYaCW" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T05:59:03.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kKULw_NKE8eGOaxSwhjt" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
           <mxGeometry x="540.87" y="1605" width="131.38" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-17" value="车站系统控制设备功能？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="1565" width="80" height="50" as="geometry" />
+          <mxGeometry x="1670" y="1570" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-21" value="定时拉取时钟并同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1059" y="1620" width="80" height="50" as="geometry" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-25" value="信息推送终端设备区分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="578" y="1480" width="131.38" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-26" value="设备主动上报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1651" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
