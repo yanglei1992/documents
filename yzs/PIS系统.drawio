@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T06:26:48.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_HMbH97xUtgYT76efMGn" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T06:34:20.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uB_2XX1m97zu2x3WSrrW" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
-    <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,75 +13,11 @@
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车站系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="1540" width="1865" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="40" width="430" height="750" as="geometry" />
+        <mxCell id="MEf120TzHeJ7vrePYZAw-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车站边端系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1047" y="240" width="430" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="420" height="750" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-6" value="消息推送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="90" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-10" value="消息显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="70" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-23" value="紧急消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="210" y="90" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MEf120TzHeJ7vrePYZAw-24" target="MEf120TzHeJ7vrePYZAw-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="130" />
-              <mxPoint x="310" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-24" value="运营消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="130" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-25" value="循环显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="70" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-26" value="弹框显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="100" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-27" value="视频流显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="130" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-29" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="160" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MEf120TzHeJ7vrePYZAw-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-41" value="按照终端设备下发信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="110" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-47" value="中间层优势，如果终端特别多的情况下，主控下发任务到中间层控制后，主控层不需要管后续控制逻辑," style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="568.37" y="-150" width="112.75" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="MEf120TzHeJ7vrePYZAw-33" target="MEf120TzHeJ7vrePYZAw-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="631" y="-40" as="sourcePoint" />
-            <mxPoint x="664" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-50" value="运营消息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="589.75" y="110" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="MEf120TzHeJ7vrePYZAw-47" target="MEf120TzHeJ7vrePYZAw-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="631" y="-40" as="sourcePoint" />
-            <mxPoint x="625" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MEf120TzHeJ7vrePYZAw-33" value="传输控制？？&lt;br&gt;消息下发控制下发逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="577.25" y="-20" width="95" height="90" as="geometry" />
+        <mxCell id="MEf120TzHeJ7vrePYZAw-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制中心消息系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="420" height="750" as="geometry" />
         </mxCell>
         <mxCell id="FDIz5WSHnkQEFrHZKm8G-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FDIz5WSHnkQEFrHZKm8G-12" target="FDIz5WSHnkQEFrHZKm8G-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
