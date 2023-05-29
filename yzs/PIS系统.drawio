@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T07:13:58.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lycyWrvwUGgNKD5LDOdc" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T07:14:09.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OpWGRhoZKf_uZAHitKaO" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1942" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           <mxGeometry x="715.37" y="1490" width="129.38" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-27" value="车站服务器有编辑修改版式与修改消息的权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="512.31" y="1730" width="131.38" height="35" as="geometry" />
+          <mxGeometry x="489.99999999999994" y="1707.5" width="131.38" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lnaJndpBKy_KP0AAHM30-28" target="FDIz5WSHnkQEFrHZKm8G-39">
           <mxGeometry relative="1" as="geometry" />
