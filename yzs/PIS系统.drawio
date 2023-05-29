@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T05:38:06.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_5lgUMl5S2EO-nOEv-IO" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T05:52:25.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CjsG3zGNV3fB47kCYaCW" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1744" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,10 +257,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-10" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="1620" width="132" height="80" as="geometry" />
+          <mxGeometry x="1692" y="1652" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-11" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="1930" width="130" height="60" as="geometry" />
+          <mxGeometry x="1692" y="1930" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-15" value="车站发布临时消息的功能，指定账号才可发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540.87" y="1605" width="131.38" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-17" value="车站系统控制设备功能？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1565" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-21" value="定时拉取时钟并同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="1620" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-22" value="通知OTA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1222" y="1600" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-24" value="拉取OTA包&lt;br&gt;（立即拉取/闲时拉取）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1640" width="127" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lnaJndpBKy_KP0AAHM30-25" value="信息推送终端设备区分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578" y="1480" width="131.38" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
