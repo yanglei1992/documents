@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T01:35:31.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="72kKiY8nlpiwvTjZPe-v" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T01:39:12.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UGw-0c4plUiOaQLNGjJs" version="21.3.5" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1312" dy="-418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="lnaJndpBKy_KP0AAHM30-51" value="（数据日志）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="835.5" y="1638.5" width="91.19" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lnaJndpBKy_KP0AAHM30-54" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lnaJndpBKy_KP0AAHM30-54" value="tcp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="820.8699999999999" y="1800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnaJndpBKy_KP0AAHM30-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lnaJndpBKy_KP0AAHM30-60" target="lnaJndpBKy_KP0AAHM30-61" edge="1">
