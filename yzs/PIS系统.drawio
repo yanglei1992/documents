@@ -1,32 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T10:36:28.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jHOLXbrhdwy2GNAxJk4w" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:46:10.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="65CiPXL-Y_VZMoxKsfLE" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1651" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tU39EX-5FNikzCLGRdo--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tU39EX-5FNikzCLGRdo--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--2" value="组&lt;br&gt;&lt;br&gt;&lt;br&gt;播&lt;br&gt;&lt;br&gt;&lt;br&gt;通&lt;br&gt;&lt;br&gt;&lt;br&gt;信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="20" height="310" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--4" value="单&lt;br&gt;&lt;br&gt;播&lt;br&gt;&lt;br&gt;通&lt;br&gt;&lt;br&gt;信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="390" width="20" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--6" value="补偿规则？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--7" value="发布记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="190" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--8" value="回调状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tU39EX-5FNikzCLGRdo--9" value="补偿次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="230" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
