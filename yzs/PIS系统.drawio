@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T06:55:00.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eE-Z5kwk0BuacNC6gdUR" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T06:59:38.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FI_opsyQBlZ-CPt3oEO7" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1276" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,17 +45,19 @@
         <mxCell id="0j8o82cNpgkUUYvZBguO-15" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-17" target="0j8o82cNpgkUUYvZBguO-10">
+        <mxCell id="0j8o82cNpgkUUYvZBguO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-17" target="0j8o82cNpgkUUYvZBguO-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-17" target="0j8o82cNpgkUUYvZBguO-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-17" value="查询空间最后的更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-22" value="根据最新的更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="280" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-23" value="查询某车站空间下最后的更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="270" y="270" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
