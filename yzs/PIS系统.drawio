@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:15:33.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jFXbwapf81CzqhG1cdtR" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:17:35.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hKu3ZDX-p6635scrdhxr" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1276" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="439.78" y="209.60000000000002" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-1" target="0j8o82cNpgkUUYvZBguO-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-1" value="&lt;br&gt;&lt;br&gt;车&lt;br&gt;&lt;br&gt;&lt;br&gt;站&lt;br&gt;&lt;br&gt;&lt;br&gt;单&lt;br&gt;&lt;br&gt;&lt;br&gt;播&lt;br&gt;&lt;br&gt;&lt;br&gt;监&lt;br&gt;&lt;br&gt;&lt;br&gt;听" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="20" height="400" as="geometry" />
@@ -33,7 +36,7 @@
         <mxCell id="0j8o82cNpgkUUYvZBguO-10" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="890" y="81" width="70" height="338" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.048;entryY=0.323;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-11">
+        <mxCell id="0j8o82cNpgkUUYvZBguO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.026;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-11" target="0j8o82cNpgkUUYvZBguO-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419.03999999999996" y="209.20000000000005" as="targetPoint" />
           </mxGeometry>
@@ -58,14 +61,25 @@
         <mxCell id="0j8o82cNpgkUUYvZBguO-17" value="查询空间最后的更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-27" target="0j8o82cNpgkUUYvZBguO-30">
+        <mxCell id="0j8o82cNpgkUUYvZBguO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-27" target="0j8o82cNpgkUUYvZBguO-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-27" value="查询出更新时间 大于等于 车站服务器空间最后更新时间的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-30" value="下发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="305" width="125" height="55" as="geometry" />
+        <mxCell id="0j8o82cNpgkUUYvZBguO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-33" target="0j8o82cNpgkUUYvZBguO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-33" value="下发车站底下全量的空间数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="355" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-35" target="0j8o82cNpgkUUYvZBguO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-35" value="保存空间数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="355" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
