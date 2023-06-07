@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T09:36:42.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Nb2FYi_XxCyKyp7QFm2a" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T09:37:13.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2Uc0ok3VATOkBoOQjVaZ" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1397" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,22 +263,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-117" value="设备品牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="1321" width="90" height="40" as="geometry" />
+          <mxGeometry x="100" y="1459" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-118" target="0j8o82cNpgkUUYvZBguO-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-118" value="物模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="1321" width="90" height="40" as="geometry" />
+          <mxGeometry x="269" y="1459" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-120" target="0j8o82cNpgkUUYvZBguO-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-120" value="设备模型&lt;br&gt;（版本号）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1321" width="90" height="40" as="geometry" />
+          <mxGeometry x="431" y="1459" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-122" value="设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="613" y="1321" width="90" height="40" as="geometry" />
+          <mxGeometry x="604" y="1459" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
