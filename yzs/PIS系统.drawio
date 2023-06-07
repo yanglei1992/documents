@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:06:10.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NTCaNPEcAr3oVP8UDdxx" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:08:22.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aBlJDJyHZwUijGRXjHkV" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1276" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,14 @@
         <mxCell id="0j8o82cNpgkUUYvZBguO-17" value="查询空间最后的更新时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0j8o82cNpgkUUYvZBguO-27" value="查询出更新时间 大于 车站服务器空间最后更新时间的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="270" width="110" height="50" as="geometry" />
+        <mxCell id="0j8o82cNpgkUUYvZBguO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-27" target="0j8o82cNpgkUUYvZBguO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-27" value="查询出更新时间 大于等于 车站服务器空间最后更新时间的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-30" value="下发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="305" width="125" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
