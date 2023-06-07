@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:23:13.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HOaA5jXmdZkzgvMkkaR2" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:23:28.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W1z63likCBnMSAUACDIF" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1276" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-35" value="不存在的空间新增&lt;br&gt;已存在的空间，更新时间不同的更新数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0j8o82cNpgkUUYvZBguO-42" value="车站服务器XXX" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="310" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
