@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T02:23:54.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Kcr4Br6i-VaPYAHdWss2" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T02:24:08.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kB84jmId_qXEcxz3bz5Z" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1397" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
           <mxGeometry x="577" y="2594" width="114" height="46" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-17" value="设备影子属性修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="2597" width="90" height="40" as="geometry" />
+          <mxGeometry x="250.5" y="2597" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
