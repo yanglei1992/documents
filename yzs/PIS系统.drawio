@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T02:24:48.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PXCyDwN2_ivQJwNNxfhY" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T02:25:59.382Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jqfCneZC39Opdcn0eR4S" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="1397" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
           <mxGeometry x="630" y="2266" width="331" height="231" as="geometry" />
         </mxCell>
         <mxCell id="0j8o82cNpgkUUYvZBguO-129" value="控制中心" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="102" y="2145" width="401" height="594" as="geometry" />
+          <mxGeometry x="102" y="2145" width="402" height="571" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0j8o82cNpgkUUYvZBguO-132" target="0j8o82cNpgkUUYvZBguO-140">
           <mxGeometry relative="1" as="geometry" />
@@ -366,19 +366,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-9" value="prometheus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="794.5" y="2594" width="114" height="46" as="geometry" />
+          <mxGeometry x="867.5" y="2594" width="114" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="twYrlaVIRwZz5B5mPk4H-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-10" target="twYrlaVIRwZz5B5mPk4H-17">
+        <mxCell id="twYrlaVIRwZz5B5mPk4H-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-10" target="twYrlaVIRwZz5B5mPk4H-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-10" value="prometheus-kafka-adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="577" y="2594" width="114" height="46" as="geometry" />
+          <mxGeometry x="703" y="2594" width="114" height="46" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-17" value="设备影子属性修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="2597" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="twYrlaVIRwZz5B5mPk4H-20" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="830" y="2678" width="120" height="80" as="geometry" />
+        <mxCell id="twYrlaVIRwZz5B5mPk4H-21" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="667" y="2398" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="twYrlaVIRwZz5B5mPk4H-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="twYrlaVIRwZz5B5mPk4H-21" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632" y="2440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="twYrlaVIRwZz5B5mPk4H-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-26" target="twYrlaVIRwZz5B5mPk4H-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twYrlaVIRwZz5B5mPk4H-26" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="2594" width="85" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
