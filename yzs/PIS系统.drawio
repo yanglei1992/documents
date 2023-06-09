@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T08:12:11.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Db7IZDTfuxItxCsoPdQJ" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T08:27:58.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vTciwmubudBj2W9nTbDn" version="21.3.7" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2044" dy="920" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,14 +409,11 @@
         <mxCell id="twYrlaVIRwZz5B5mPk4H-39" value="控制补偿???" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="250.5" y="2480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-42" target="dj0g7gMGUimBVPfOeN-_-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-42" target="dj0g7gMGUimBVPfOeN-_-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-42" value="设备异常告警记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="175" y="2944" width="90" height="40" as="geometry" />
+          <mxGeometry x="175" y="2977" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0j8o82cNpgkUUYvZBguO-134" target="0j8o82cNpgkUUYvZBguO-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -562,19 +559,15 @@
           <mxGeometry x="666" y="3555" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-50" value="设备异常告警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="748" y="2945" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.368;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-53" target="twYrlaVIRwZz5B5mPk4H-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-53" value="修改设备影子属性告警状态为异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="3046" width="104" height="38" as="geometry" />
+          <mxGeometry x="750.5" y="2977" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-55" target="twYrlaVIRwZz5B5mPk4H-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-55" target="dj0g7gMGUimBVPfOeN-_-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-55" target="dj0g7gMGUimBVPfOeN-_-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="2863.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-55" value="产生告警" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="2837" width="100" height="53" as="geometry" />
@@ -582,28 +575,26 @@
         <mxCell id="dj0g7gMGUimBVPfOeN-_-65" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="2902" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-67" target="dj0g7gMGUimBVPfOeN-_-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-67" value="当前设备影子属性是否是告警状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-14.75" y="2827.5" width="116" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-69" target="twYrlaVIRwZz5B5mPk4H-37">
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="43" y="3134" />
-              <mxPoint x="486" y="3134" />
-            </Array>
+            <mxPoint x="43.25" y="3002.0000000000005" as="sourcePoint" />
+            <mxPoint x="43.25" y="3002.0000000000005" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-69" value="修改设备影子属性告警状态为正常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-8.75" y="2964" width="104" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-69" target="dj0g7gMGUimBVPfOeN-_-69">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-77" value="边端影子数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="2759" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-83" target="dj0g7gMGUimBVPfOeN-_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-83" value="是否存在相同维度的告警信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="2837" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-85" target="dj0g7gMGUimBVPfOeN-_-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dj0g7gMGUimBVPfOeN-_-85" value="修改告警记录为已处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="331" y="2929" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
