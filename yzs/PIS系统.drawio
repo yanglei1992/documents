@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T03:26:28.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aoxm8S7P7hLC4EtS2pMv" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:26:48.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MQWmJ2zEXn3ob_sdK5SC" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2396" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -715,13 +715,13 @@
         <mxCell id="abwKyMjy0Io72qWTZQSi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="abwKyMjy0Io72qWTZQSi-63" target="abwKyMjy0Io72qWTZQSi-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abwKyMjy0Io72qWTZQSi-63" value="设备查询/设备监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abwKyMjy0Io72qWTZQSi-63" value="1.设备查询&lt;br&gt;2.设备监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="28" y="5203" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abwKyMjy0Io72qWTZQSi-66" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="5117" width="37" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="abwKyMjy0Io72qWTZQSi-68" value="设备详情查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abwKyMjy0Io72qWTZQSi-68" value="返回设备详情信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="5203" width="101" height="40" as="geometry" />
         </mxCell>
       </root>
