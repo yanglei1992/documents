@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T03:26:48.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MQWmJ2zEXn3ob_sdK5SC" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:28:03.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nM8MkNEtlpQnI_RzDniX" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2396" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -721,8 +721,20 @@
         <mxCell id="abwKyMjy0Io72qWTZQSi-66" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="5117" width="37" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="abwKyMjy0Io72qWTZQSi-68" value="返回设备详情信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="abwKyMjy0Io72qWTZQSi-68" value="组装mysql与prometheus的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="5203" width="101" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="abwKyMjy0Io72qWTZQSi-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="abwKyMjy0Io72qWTZQSi-72" target="abwKyMjy0Io72qWTZQSi-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abwKyMjy0Io72qWTZQSi-72" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-251" y="5158" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="abwKyMjy0Io72qWTZQSi-74" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-113" y="5191" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="abwKyMjy0Io72qWTZQSi-77" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47" y="5137" width="25" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
