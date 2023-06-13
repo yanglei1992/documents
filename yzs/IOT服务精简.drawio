@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T09:24:07.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_vmjJkP14eL8WO-CujLz" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T09:24:41.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ASAR3GdUeESiYXU2LY4V" version="21.3.8" type="github">
   <diagram name="第 1 页" id="QdaQC4iQ9BGiyTKTw770">
-    <mxGraphModel dx="1400" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,19 +74,19 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-42" value="dm_files" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="64MMbICncz5PE0fVNHqt-28">
           <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-36" value="device-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="740" width="190" height="60" as="geometry">
-            <mxRectangle x="240" y="310" width="110" height="30" as="alternateBounds" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-36" value="device-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="637" y="740" width="110" height="30" as="geometry">
+            <mxRectangle x="637" y="740" width="190" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-44" value="device-control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="1070" width="190" height="60" as="geometry">
-            <mxRectangle x="240" y="310" width="110" height="30" as="alternateBounds" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-44" value="device-control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="930" y="720" width="110" height="30" as="geometry">
+            <mxRectangle x="637" y="1070" width="190" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-35" value="iot-strategy-enginer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="610" width="190" height="60" as="geometry">
-            <mxRectangle x="240" y="310" width="110" height="30" as="alternateBounds" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-35" value="iot-strategy-enginer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1130" y="585" width="110" height="30" as="geometry">
+            <mxRectangle x="1130" y="585" width="190" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-49" value="user-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,8 +98,10 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-59" value="shimao_member" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-49">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-57" value="project-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="700" width="140" height="570" as="geometry" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-57" value="project-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="240" y="700" width="110" height="30" as="geometry">
+            <mxRectangle x="240" y="700" width="140" height="570" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-58" value="shimao-iot-project" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="64MMbICncz5PE0fVNHqt-57">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -155,9 +157,9 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-80" value="ym_user_role" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-57">
           <mxGeometry y="540" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-61" value="auth-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="390" width="190" height="150" as="geometry">
-            <mxRectangle x="414" y="360" width="100" height="30" as="alternateBounds" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-61" value="auth-server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="490" y="390" width="100" height="30" as="geometry">
+            <mxRectangle x="490" y="390" width="190" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-62" value="shimao-iot-open" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="64MMbICncz5PE0fVNHqt-61">
@@ -172,8 +174,10 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-67" value="&lt;strike&gt;shimao_oauth_client_details&lt;/strike&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-61">
           <mxGeometry y="120" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-89" value="iot-security" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="840" width="190" height="180" as="geometry" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-89" value="iot-security" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="637" y="840" width="100" height="30" as="geometry">
+            <mxRectangle x="637" y="840" width="190" height="180" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-90" value="shimao-iot-security" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="64MMbICncz5PE0fVNHqt-89">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -190,9 +194,9 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-93" value="shimao_oauth_client_details" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-89">
           <mxGeometry y="150" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-95" value="iot-device-heart" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642" y="1200" width="180" height="120" as="geometry">
-            <mxRectangle x="650" y="1210" width="120" height="30" as="alternateBounds" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-95" value="iot-device-heart" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1110" y="750" width="120" height="30" as="geometry">
+            <mxRectangle x="642" y="1200" width="180" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-96" value="&lt;b style=&quot;&quot;&gt;shimao-iot-heart&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-95">
@@ -251,8 +255,10 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-112" value="dm_shadow_attributes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-99">
           <mxGeometry y="420" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-114" value="strategy-service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="150" width="200" height="570" as="geometry" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-114" value="strategy-service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="940" y="150" width="130" height="30" as="geometry">
+            <mxRectangle x="940" y="150" width="200" height="570" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-115" value="shimao-iot-strategy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="64MMbICncz5PE0fVNHqt-114">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -308,8 +314,10 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-130" value="iot_strategy_trigger_sensor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-114">
           <mxGeometry y="540" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-133" value="message-center" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="460" width="240" height="510" as="geometry" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-133" value="message-center" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1220" y="460" width="130" height="30" as="geometry">
+            <mxRectangle x="1220" y="460" width="240" height="510" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-134" value="shimao-iot-message" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="64MMbICncz5PE0fVNHqt-133">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -359,8 +367,10 @@
         <mxCell id="64MMbICncz5PE0fVNHqt-146" value="iot_template" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-133">
           <mxGeometry y="480" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64MMbICncz5PE0fVNHqt-137" value="business-point-data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="10" width="240" height="120" as="geometry" />
+        <mxCell id="64MMbICncz5PE0fVNHqt-137" value="business-point-data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="710" y="150" width="150" height="30" as="geometry">
+            <mxRectangle x="637" y="10" width="240" height="120" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="64MMbICncz5PE0fVNHqt-138" value="shimao-iot-system" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="64MMbICncz5PE0fVNHqt-137">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
