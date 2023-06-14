@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T02:36:53.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jxQ1bACNxNZPsVIlmwPs" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T07:56:15.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ByFmfkZithwsdYQnbPOn" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2396" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,6 +358,9 @@
         <mxCell id="dj0g7gMGUimBVPfOeN-_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="twYrlaVIRwZz5B5mPk4H-17" target="dj0g7gMGUimBVPfOeN-_-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="twYrlaVIRwZz5B5mPk4H-17" target="at21bJ_h3-vm8kJAu4BZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-17" value="设备影子属性修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="2705" width="90" height="40" as="geometry" />
         </mxCell>
@@ -365,7 +368,7 @@
           <mxGeometry x="949" y="1432.5" width="71" height="111" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-42" value="新增设备异常告警记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="175" y="2923" width="90" height="40" as="geometry" />
+          <mxGeometry x="381" y="2789.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="twYrlaVIRwZz5B5mPk4H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0j8o82cNpgkUUYvZBguO-134" target="0j8o82cNpgkUUYvZBguO-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -512,14 +515,14 @@
         <mxCell id="dj0g7gMGUimBVPfOeN-_-42" value="超过期限的设备状态数据删除" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="666" y="3555" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dj0g7gMGUimBVPfOeN-_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dj0g7gMGUimBVPfOeN-_-55" target="twYrlaVIRwZz5B5mPk4H-42" edge="1">
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dj0g7gMGUimBVPfOeN-_-55" target="twYrlaVIRwZz5B5mPk4H-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-55" value="产生告警" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="2783" width="100" height="53" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-65" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="175" y="2848" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="2783" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dj0g7gMGUimBVPfOeN-_-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -659,6 +662,20 @@
         </mxCell>
         <mxCell id="at21bJ_h3-vm8kJAu4BZ-7" value="控制中心系统界面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="642" y="2413" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-8" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="661" y="2678.5" width="80" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="at21bJ_h3-vm8kJAu4BZ-11" target="at21bJ_h3-vm8kJAu4BZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-14" value="查询设备日志数据信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="at21bJ_h3-vm8kJAu4BZ-13">
+          <mxGeometry x="0.0703" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="at21bJ_h3-vm8kJAu4BZ-11" value="数据监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2939" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
