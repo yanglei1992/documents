@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T10:11:38.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Zb_A1uqBDfy7pfUbxOAh" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T10:16:01.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0NE7DHn3vuVPVll64HHg" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
-    <mxGraphModel dx="2052" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="907" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,7 +681,7 @@
           <mxGeometry x="175" y="2939" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-2" value="device" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="976" y="6887" width="140" height="150" as="geometry" />
+          <mxGeometry x="890.5" y="6860.5" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-3" value="dm_entity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CJJejJ67MuLaYwfd6i9B-2">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -696,10 +696,10 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-39" value="车站服务器" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="716" y="6503" width="356" height="195" as="geometry" />
+          <mxGeometry x="716" y="6503" width="356" height="173" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-40" value="控制中心" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="5" y="6382" width="610" height="807" as="geometry" />
+          <mxGeometry x="5" y="6382" width="610" height="865" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CJJejJ67MuLaYwfd6i9B-49">
           <mxGeometry relative="1" as="geometry">
@@ -745,11 +745,11 @@
         <mxCell id="CJJejJ67MuLaYwfd6i9B-53" value="设备影子属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="6643" width="114" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="CJJejJ67MuLaYwfd6i9B-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-55" target="CJJejJ67MuLaYwfd6i9B-66">
+        <mxCell id="CJJejJ67MuLaYwfd6i9B-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-55" target="CJJejJ67MuLaYwfd6i9B-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="250" y="6741" width="114" height="46" as="geometry" />
+          <mxGeometry x="432" y="6741" width="114" height="46" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-58" target="CJJejJ67MuLaYwfd6i9B-69">
           <mxGeometry relative="1" as="geometry" />
@@ -758,7 +758,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-58" value="设备影子属性修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="6942" width="90" height="40" as="geometry" />
+          <mxGeometry x="261" y="6915.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-59" value="新增设备异常告警记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="467" y="7026.5" width="90" height="40" as="geometry" />
@@ -782,10 +782,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-66" value="&lt;b&gt;设备影子属性采集服务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="6854" width="90" height="40" as="geometry" />
+          <mxGeometry x="261" y="6805" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-67" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="6801" width="60" height="30" as="geometry" />
+          <mxGeometry x="333" y="6737" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-69" target="CJJejJ67MuLaYwfd6i9B-59">
           <mxGeometry relative="1" as="geometry" />
@@ -806,27 +806,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-73" value="设备(批量)控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="858" y="6630" width="101" height="40" as="geometry" />
+          <mxGeometry x="856" y="6617" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-74" value="控制中心系统界面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="728" y="6650" width="114" height="26" as="geometry" />
+          <mxGeometry x="720" y="6617" width="114" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-75" target="CJJejJ67MuLaYwfd6i9B-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-75" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="747" y="6915.5" width="80" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJejJ67MuLaYwfd6i9B-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-78" target="CJJejJ67MuLaYwfd6i9B-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJejJ67MuLaYwfd6i9B-77" value="查询设备日志数据信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CJJejJ67MuLaYwfd6i9B-76">
-          <mxGeometry x="0.0703" y="-4" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJJejJ67MuLaYwfd6i9B-78" value="数据监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251.75" y="7120" width="90" height="40" as="geometry" />
+          <mxGeometry x="716" y="6868.5" width="80" height="134" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-79" target="CJJejJ67MuLaYwfd6i9B-64">
           <mxGeometry relative="1" as="geometry" />
