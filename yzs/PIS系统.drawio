@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T07:54:00.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CgEQxzbul1JwpcSdC3t6" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T07:55:57.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KWoRrsE-Z7nG4YMLHTNV" version="21.3.8" type="github">
   <diagram name="第 1 页" id="WxWkG-pKVZrvrhtKARHQ">
     <mxGraphModel dx="2037" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CJJejJ67MuLaYwfd6i9B-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="6517" width="380" height="308" as="geometry" />
+        </mxCell>
         <mxCell id="abwKyMjy0Io72qWTZQSi-62" value="控制中心" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-57.5" y="5087" width="610" height="300" as="geometry" />
         </mxCell>
@@ -782,7 +785,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-66" value="&lt;b&gt;设备影子属性采集服务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="6845" width="90" height="40" as="geometry" />
+          <mxGeometry x="262" y="6854" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-67" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="299" y="6801" width="60" height="30" as="geometry" />
@@ -811,7 +814,7 @@
         <mxCell id="CJJejJ67MuLaYwfd6i9B-74" value="控制中心系统界面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="728" y="6650" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CJJejJ67MuLaYwfd6i9B-75" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="CJJejJ67MuLaYwfd6i9B-75" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="747" y="6915.5" width="80" height="93" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-78" target="CJJejJ67MuLaYwfd6i9B-75">
@@ -824,6 +827,9 @@
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-78" value="数据监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="7176" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CJJejJ67MuLaYwfd6i9B-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJJejJ67MuLaYwfd6i9B-79" target="CJJejJ67MuLaYwfd6i9B-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJejJ67MuLaYwfd6i9B-79" value="设备服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1354" y="6643" width="114" height="46" as="geometry" />
