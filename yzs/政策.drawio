@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T02:39:37.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="slq6xBym2NR8uHca2Yfv" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T02:39:47.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o8Azi-6pQxH9WeS2dGzK" version="21.6.6" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2474" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,13 +284,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bisRe-8OawZfb11u8gYM-105" value="meeage-center" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="760" width="239" height="90" as="geometry" />
+          <mxGeometry x="1180" y="760" width="239" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bisRe-8OawZfb11u8gYM-107" value="policy_id&amp;nbsp; 政策id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bisRe-8OawZfb11u8gYM-105">
           <mxGeometry y="30" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bisRe-8OawZfb11u8gYM-111" value="company_id （公司唯一值）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bisRe-8OawZfb11u8gYM-105">
           <mxGeometry y="60" width="239" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bisRe-8OawZfb11u8gYM-112" value="待定" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bisRe-8OawZfb11u8gYM-105">
+          <mxGeometry y="90" width="239" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
