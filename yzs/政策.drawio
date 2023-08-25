@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T07:00:16.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mHLVeq6VMI7013q2re_v" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T07:01:42.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8y83srUrheOffpI8M_rF" version="21.6.9" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
-    <mxGraphModel dx="1492" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,7 +335,7 @@
           <mxGeometry y="210" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-1" value="企业订阅政策" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-619.9999999999995" y="2180" width="670.9999999999995" height="480" as="geometry" />
+          <mxGeometry x="-639.9999999999995" y="2170" width="749.9999999999995" height="480" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-2" value="企业" style="swimlane;startSize=20;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-1">
           <mxGeometry y="20" width="120" height="460" as="geometry" />
@@ -390,15 +390,24 @@
             <mxPoint x="319.99999999999955" y="200" as="sourcePoint" />
             <mxPoint x="369.99999999999955" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="605.9999999999995" y="180" />
+              <mxPoint x="629.9999999999995" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-6" value="mysql" style="swimlane;startSize=20;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-1">
-          <mxGeometry x="520.9999999999995" y="20" width="150" height="460" as="geometry" />
+          <mxGeometry x="520.9999999999995" y="20" width="229" height="460" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-21" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;subscribe_policy&lt;/font&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;subscribe_policy_detail&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-6">
-          <mxGeometry x="14" y="65" width="130" height="30" as="geometry" />
+          <mxGeometry x="39" y="65" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7U41KO869kOjIQt08ySt-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7U41KO869kOjIQt08ySt-6" source="7U41KO869kOjIQt08ySt-30" target="7U41KO869kOjIQt08ySt-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7U41KO869kOjIQt08ySt-30" value="subscribe_message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-6">
+          <mxGeometry x="39" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7U41KO869kOjIQt08ySt-31" value="subscribe_message_send" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-6">
+          <mxGeometry x="23.5" y="280" width="161" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
