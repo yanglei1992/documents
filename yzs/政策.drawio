@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T08:56:51.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A_SdQIkGv4MmtnY9DZlR" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T08:58:33.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pHZfynbuLSo-8ugg02So" version="21.6.9" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
-    <mxGraphModel dx="1790" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1333" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,7 +463,7 @@
             <mxPoint x="409.99999999999955" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UyHdMAJt9d4iDrEaoFpb-10" value="指标" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+        <mxCell id="UyHdMAJt9d4iDrEaoFpb-10" value="指标1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="3000" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-11" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UyHdMAJt9d4iDrEaoFpb-10">
@@ -474,9 +474,6 @@
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UyHdMAJt9d4iDrEaoFpb-10">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="UyHdMAJt9d4iDrEaoFpb-14" value="政策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="2960" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-16" value="企业" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="2980" width="140" height="120" as="geometry" />
@@ -489,6 +486,9 @@
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-19" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="UyHdMAJt9d4iDrEaoFpb-16">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UyHdMAJt9d4iDrEaoFpb-20" value="政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="2960" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
