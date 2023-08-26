@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T02:48:47.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="61Mi8hQkqF4TokfV-29_" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T03:04:07.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ur58YMLVc_MNiD9mlqEn" version="21.6.9" type="github">
   <diagram name="第 1 页" id="PB_nf5uyEakX5CC_Q3U3">
     <mxGraphModel dx="1164" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="RwFWexjP3_oaEFjTqjFq-33" value="ASR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="579.25" y="360" width="75" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RwFWexjP3_oaEFjTqjFq-34" value="MLU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RwFWexjP3_oaEFjTqjFq-34" value="NLU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665.75" y="360" width="75" height="25" as="geometry" />
         </mxCell>
         <mxCell id="RwFWexjP3_oaEFjTqjFq-35" value="KMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,7 +82,7 @@
         <mxCell id="RwFWexjP3_oaEFjTqjFq-39" value="BI大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="202.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="RwFWexjP3_oaEFjTqjFq-40" value="对接层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="RwFWexjP3_oaEFjTqjFq-40" value="第三方" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="237.12" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RwFWexjP3_oaEFjTqjFq-41" value="企业数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
