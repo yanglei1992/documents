@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T01:31:37.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iJ51378Qyw7VljDQyX_i" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T01:32:58.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4rYPu7rXyJH14BuBVhla" version="21.6.9" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,6 +349,15 @@
         <mxCell id="yNDDxkq5DlbXRZ4KLDkx-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-2">
           <mxGeometry x="49.999999999999545" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7U41KO869kOjIQt08ySt-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.419;exitY=1.086;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="7U41KO869kOjIQt08ySt-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29.949999999999818" y="69.99999999999993" as="sourcePoint" />
+            <mxPoint x="214.53999999999996" y="480.81000000000034" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.978;exitY=0.507;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.016;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7U41KO869kOjIQt08ySt-1" source="7U41KO869kOjIQt08ySt-9" target="7U41KO869kOjIQt08ySt-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219.99999999999955" y="95" as="sourcePoint" />
@@ -395,25 +404,28 @@
           <mxGeometry x="102.5" y="130" width="107.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-27" value="新增/编辑&lt;br&gt;政策" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
-          <mxGeometry x="32.5" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="16.5" y="280" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="7U41KO869kOjIQt08ySt-3" source="7U41KO869kOjIQt08ySt-33" target="7U41KO869kOjIQt08ySt-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-33" value="订阅标签与政策标签匹配" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
-          <mxGeometry x="80.25" y="400" width="90" height="35" as="geometry" />
+          <mxGeometry x="95" y="310" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-42" value="组装发送的消息内容&lt;br&gt;信息服务发送信息" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
           <mxGeometry x="44" y="655" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-44" value="计算消息的发送时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
-          <mxGeometry x="80.25" y="467.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="95" y="467.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-52" value="根据企业id清理未发送的消息" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
           <mxGeometry x="86.5" y="540" width="83.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-80" value="失败处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-3" vertex="1">
           <mxGeometry x="183.99999999999955" y="670" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNDDxkq5DlbXRZ4KLDkx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7U41KO869kOjIQt08ySt-3" source="yNDDxkq5DlbXRZ4KLDkx-1" target="7U41KO869kOjIQt08ySt-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yNDDxkq5DlbXRZ4KLDkx-1" value="申报开始时间&lt;br&gt;大于当前时间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-3">
           <mxGeometry x="74.99999999999955" y="200" width="130" height="50" as="geometry" />
@@ -456,15 +468,6 @@
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-31" value="subscribe_message_send&lt;br&gt;计划发送时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-6" vertex="1">
           <mxGeometry x="7.5" y="545" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7U41KO869kOjIQt08ySt-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.419;exitY=1.086;exitDx=0;exitDy=0;exitPerimeter=0;" parent="7U41KO869kOjIQt08ySt-1" source="7U41KO869kOjIQt08ySt-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.99999999999955" y="360" as="sourcePoint" />
-            <mxPoint x="199.99999999999955" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="30.999999999999545" y="440" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.024;exitY=0.543;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.658;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7U41KO869kOjIQt08ySt-1" source="UyHdMAJt9d4iDrEaoFpb-40" target="7U41KO869kOjIQt08ySt-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
