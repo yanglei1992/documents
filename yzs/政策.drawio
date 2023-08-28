@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T01:39:09.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LlwncJQovLL-2Q-V6RRX" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T01:39:24.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BC9qqAtvjyPqV3pqjFOO" version="21.6.9" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
         <mxCell id="7U41KO869kOjIQt08ySt-30" value="subscribe_message" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-6" vertex="1">
           <mxGeometry x="49.5" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7U41KO869kOjIQt08ySt-31" value="subscribe_message_send&lt;br&gt;计划发送时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-6" vertex="1">
+        <mxCell id="7U41KO869kOjIQt08ySt-31" value="subscribe_message_send&lt;br&gt;当天发送时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="7U41KO869kOjIQt08ySt-6" vertex="1">
           <mxGeometry x="34" y="482.5" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UyHdMAJt9d4iDrEaoFpb-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.024;exitY=0.543;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.658;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="7U41KO869kOjIQt08ySt-1" source="UyHdMAJt9d4iDrEaoFpb-40" target="7U41KO869kOjIQt08ySt-23" edge="1">
