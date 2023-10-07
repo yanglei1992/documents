@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T03:27:29.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tGCq_NFcLDYDsKhltm26" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T03:32:32.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eH7Fa_p0y9ttICumMtid" version="22.0.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -595,19 +595,22 @@
           <mxGeometry x="650" y="2458" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-1" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="3560" width="97.5" height="40" as="geometry" />
+          <mxGeometry x="170" y="3600" width="97.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-2" target="Ucv7UtGjpNOLDIL33GQc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ucv7UtGjpNOLDIL33GQc-2" value="数据采集/爬取服务&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="380" y="3520" width="430" height="120" as="geometry" />
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-2" target="Ucv7UtGjpNOLDIL33GQc-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ucv7UtGjpNOLDIL33GQc-3" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="3700" width="120" height="60" as="geometry" />
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-2" value="数据采集/爬取服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="3520" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-3" value="第一期&lt;br&gt;数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539.5" y="3640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-4" value="业务：mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="3880" width="120" height="60" as="geometry" />
+          <mxGeometry x="523.75" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-6" value="信阳市工业和信息化局" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="3300" width="140" height="40" as="geometry" />
@@ -678,6 +681,33 @@
         </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-27" value="API上报/API读取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="782.07" y="3420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-31" value="政策大脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-32" value="智慧金融" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525.75" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-33" value="运维管理&lt;br&gt;（企业基本信息）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-3" target="Ucv7UtGjpNOLDIL33GQc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-2" target="Ucv7UtGjpNOLDIL33GQc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-2" target="Ucv7UtGjpNOLDIL33GQc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-39" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-40" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="583.75" y="3780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-41" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="3780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
