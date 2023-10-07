@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T03:27:01.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hFA5tGQb4YxtcvAMVuRM" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T03:27:11.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hEKT-mlBmTK8TzEZRf-F" version="22.0.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -662,15 +662,22 @@
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-25" value="XX企业运行平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="3300" width="98" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ucv7UtGjpNOLDIL33GQc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.476;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-25" target="Ucv7UtGjpNOLDIL33GQc-15">
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.476;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-27" target="Ucv7UtGjpNOLDIL33GQc-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="837" y="3567" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ucv7UtGjpNOLDIL33GQc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.476;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ucv7UtGjpNOLDIL33GQc-25" target="Ucv7UtGjpNOLDIL33GQc-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="837" y="3342" as="sourcePoint" />
+            <mxPoint x="766" y="3567" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ucv7UtGjpNOLDIL33GQc-27" value="API上报/API读取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="3420" width="110" height="30" as="geometry" />
+          <mxGeometry x="782.07" y="3420" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
