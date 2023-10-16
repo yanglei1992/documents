@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:00:04.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="yefdHFUzkU4LohXxgm5d" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T06:00:44.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RoRKBFm2guAXqrFWXT2D" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1637" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,15 @@
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-44" value="经济运行平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-47" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1150" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-48" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="655" y="870" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-49" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1160" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
