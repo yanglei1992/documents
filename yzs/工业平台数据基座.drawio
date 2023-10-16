@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T10:25:39.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7eVOHIGmHs71GJF45bOg" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T10:26:36.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="etY3DzsHuqRrPjYZ4EQF" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1637" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,14 +115,23 @@
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yWDx3WJLYbUsVVYtLUWM-38" target="yWDx3WJLYbUsVVYtLUWM-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yWDx3WJLYbUsVVYtLUWM-38" target="yWDx3WJLYbUsVVYtLUWM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-38" value="爬虫采集服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yWDx3WJLYbUsVVYtLUWM-39" target="yWDx3WJLYbUsVVYtLUWM-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yWDx3WJLYbUsVVYtLUWM-39" target="yWDx3WJLYbUsVVYtLUWM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-39" value="数据上报服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yWDx3WJLYbUsVVYtLUWM-40" target="yWDx3WJLYbUsVVYtLUWM-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-40" value="数据清洗服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="940" width="120" height="60" as="geometry" />
@@ -140,13 +149,13 @@
           <mxGeometry x="620" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-47" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1220" width="110" height="60" as="geometry" />
+          <mxGeometry x="345" y="1230" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-48" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
           <mxGeometry x="655" y="940" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-49" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1230" width="110" height="60" as="geometry" />
+          <mxGeometry x="625" y="1230" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
