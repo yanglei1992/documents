@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T10:14:33.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_YWFKsWQ_4AiOlQU6Tp3" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T10:15:31.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Nbh5zK5zKENE-p4kmbTe" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry x="490" y="1020" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-3" value="市行政审批和政务信息管理局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1200" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="1200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-8" value="金融产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1390" width="100" height="50" as="geometry" />
@@ -146,10 +146,19 @@
           <mxGeometry x="660" y="1020" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-16" value="市场监督管理局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1200" width="140" height="70" as="geometry" />
+          <mxGeometry x="490" y="1200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-17" value="税务局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="666.5" y="1200" width="140" height="70" as="geometry" />
+          <mxGeometry x="666.5" y="1200" width="143.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-19" value="城市管理局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-20" value="自然资源和规划局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-21" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666.5" y="1300" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
