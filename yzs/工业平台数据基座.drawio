@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T10:05:50.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ze2PAk_VVFqXAFulf_81" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T10:07:24.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K6GetQrPbj6DalAkRbJG" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1637" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,27 @@
         </mxCell>
         <mxCell id="yWDx3WJLYbUsVVYtLUWM-34" value="企业动态数据导入&lt;br&gt;（经营信息、&lt;br&gt;能耗信息）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-1" value="企业基本数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-2" value="企业工商数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-3" value="国家级政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-4" value="信阳市级政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-5" value="河南省省级政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-6" value="信阳市各部门政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-7" value="信阳市区县级政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
