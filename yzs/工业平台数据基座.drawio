@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T10:28:50.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Wj1RRFkay-lZ_K4hloHP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T10:32:08.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="T8Qcxn2hKLg8P7AU_Wfp" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1633" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-26" value="科学技术信息&lt;br&gt;&lt;br&gt;高新技术/研发中心/研发平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="744" y="1090" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-27" value="先阶段都是招商政策？是否有包含其他维度政策" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
