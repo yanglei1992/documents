@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T03:52:16.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rTrZzNg_kpb2m3fd0K2A" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T05:44:20.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="arcTm7qq2rOkKc_7dY0L" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
-    <mxGraphModel dx="1633" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,142 +83,142 @@
         <mxCell id="Ni6QwDA9w7rpbr3JU669-27" value="现阶段都是招商政策？&lt;br&gt;是否有包含其他维度政策" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1146" y="1999" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-1" value="&lt;b&gt;数据清洗服务/中间件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-1" value="&lt;b&gt;数据清洗服务/中间件&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="791.5" y="1167" width="200" height="413" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-2" value="企业信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-2" value="企业信息" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="100" y="1182" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-3" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-3" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1207.5" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-5" target="bBOoKxX_dk00QMiVEn9z-6">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-5" target="bBOoKxX_dk00QMiVEn9z-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-5" value="爬取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-5" value="爬取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1170" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-6" value="&lt;b&gt;爬虫服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;ssc_company_info&lt;br&gt;tyc_company_info&lt;br&gt;policy_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-6" value="&lt;b&gt;爬虫服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;ssc_company_info&lt;br&gt;tyc_company_info&lt;br&gt;policy_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="1207.5" width="140" height="92.5" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.906;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-8" target="bBOoKxX_dk00QMiVEn9z-15">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.906;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-8" target="bBOoKxX_dk00QMiVEn9z-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-8" value="上报&lt;br&gt;/&lt;br&gt;拉取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-8" value="上报&lt;br&gt;/&lt;br&gt;拉取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1370" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-9" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-9" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1227.5" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-10" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-10" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1247.5" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-11" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-11" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1267.5" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-2" target="bBOoKxX_dk00QMiVEn9z-5">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-2" target="bBOoKxX_dk00QMiVEn9z-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-13" value="&lt;b&gt;mysql&lt;br&gt;政策数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策标题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策内容&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt; font-family: 等线;&quot;&gt;政策级别&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文机关&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文字号&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发布日期&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;附件&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-13" value="&lt;b&gt;mysql&lt;br&gt;政策数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策标题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策内容&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt; font-family: 等线;&quot;&gt;政策级别&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文机关&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文字号&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发布日期&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;附件&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="836.5" y="1390" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-14" value="数据清理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-14" value="数据清理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="729" y="1170" width="20" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-15" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;report_data_info&lt;br&gt;policy_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-15" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;report_data_info&lt;br&gt;policy_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="1380" width="145" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-17" target="bBOoKxX_dk00QMiVEn9z-8">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-17" target="bBOoKxX_dk00QMiVEn9z-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-17" value="政策数据&lt;br&gt;&lt;br&gt;各局系统对接&lt;br&gt;各局官网政策数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-17" value="政策数据&lt;br&gt;&lt;br&gt;各局系统对接&lt;br&gt;各局官网政策数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="90" y="1434" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-17" target="bBOoKxX_dk00QMiVEn9z-5">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-17" target="bBOoKxX_dk00QMiVEn9z-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-2" target="bBOoKxX_dk00QMiVEn9z-8">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-2" target="bBOoKxX_dk00QMiVEn9z-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-20" value="A&lt;br&gt;P&lt;br&gt;I&lt;br&gt;&lt;br&gt;审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-20" value="A&lt;br&gt;P&lt;br&gt;I&lt;br&gt;&lt;br&gt;审核" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1170" width="20" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-21" value="&lt;b&gt;政策大脑&lt;br&gt;政策编辑后发布&lt;br&gt;政策数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;政策标题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策内容&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt; font-family: 等线;&quot;&gt;政策级别&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文机关（部门）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文字号&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发布日期&lt;br&gt;生效日期&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;附件&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-21" value="&lt;b&gt;政策大脑&lt;br&gt;政策编辑后发布&lt;br&gt;政策数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;政策标题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;政策内容&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.5pt; font-family: 等线;&quot;&gt;政策级别&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文机关（部门）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发文字号&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;发布日期&lt;br&gt;生效日期&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;附件&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1141" y="1340" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-22" value="各局系统对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-22" value="各局系统对接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="1300" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-23" value="&lt;b&gt;mysql&lt;br&gt;企业数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-23" value="&lt;b&gt;mysql&lt;br&gt;企业数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="810" y="1207.5" width="163" height="157.5" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-24" value="&lt;b&gt;经济运行平台&lt;br&gt;&lt;br&gt;企业数据直接API拉取&lt;br&gt;企业数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-24" value="&lt;b&gt;经济运行平台&lt;br&gt;&lt;br&gt;企业数据直接API拉取&lt;br&gt;企业数据&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1140" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-25" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-25" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1217" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-26" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-26" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1237" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-27" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-27" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1257" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-28" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-28" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1277" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-29" value="&lt;b&gt;政策解读&lt;/b&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-29" value="&lt;b&gt;政策解读&lt;/b&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1142" y="1622" width="159" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-30" value="&lt;b&gt;政策拆解&lt;/b&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-30" value="&lt;b&gt;政策拆解&lt;/b&gt;&lt;span style=&quot;font-family: 等线; font-size: 10.5pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="1142" y="1572" width="159" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-31" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-31" value="企业基础数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="836.5" y="1256.25" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-32" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-32" value="企业涉诉数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="836.5" y="1276.25" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-33" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-33" value="企业知识产权数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="836.5" y="1296.25" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-34" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-34" value="企业经营数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="836.5" y="1316.25" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBOoKxX_dk00QMiVEn9z-36" target="bBOoKxX_dk00QMiVEn9z-1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bBOoKxX_dk00QMiVEn9z-36" target="bBOoKxX_dk00QMiVEn9z-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-36" value="企业动态数据导入&lt;br&gt;（经营信息、&lt;br&gt;能耗信息）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-36" value="企业动态数据导入&lt;br&gt;（经营信息、&lt;br&gt;能耗信息）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="1080" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=118;endSize=12.14;width=50;" edge="1" parent="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=118;endSize=12.14;width=50;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="565" y="208" as="sourcePoint" />
             <mxPoint x="715" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-41" value="数据清洗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bBOoKxX_dk00QMiVEn9z-38">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-41" value="数据清洗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bBOoKxX_dk00QMiVEn9z-38" vertex="1" connectable="0">
           <mxGeometry x="-0.2532" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="95.49" width="740" height="484.51" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="749" y="95.49" width="740" height="484.51" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-45" value="工商信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="930" y="135" width="192.5" height="125" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-45" value="工商信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="829" y="135" width="192.5" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-46" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1236" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-46" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-47" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="145" width="120" height="60" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-47" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1339" y="145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-48" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-48" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1329" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-49" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1236" y="135" width="120" height="60" as="geometry" />
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-49" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="135" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
