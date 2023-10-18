@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:06:37.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tmX7MMoQ3O3nghe-VucI" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:06:54.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZQ9-KmP0XuiWO-mmjEsk" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="Ni6QwDA9w7rpbr3JU669-1" value="企业基本数据&lt;br&gt;&lt;br&gt;企业注册信息/专利信息/不动产信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="990" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ni6QwDA9w7rpbr3JU669-2" value="企业工商数据&lt;br&gt;&lt;br&gt;能耗数据/产值数据/营收数据/利润/库存/商务信息/企业进出口等信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-2" value="企业工商数据&lt;br&gt;&lt;br&gt;能耗数据/产值数据/营收数据/利润/库存/商务信息/企业进出口等信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="990" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-3" value="市行政审批和政务信息管理局政策&lt;br&gt;&lt;br&gt;国家级/省级/市级/区县级" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -160,13 +160,13 @@
         <mxCell id="Ni6QwDA9w7rpbr3JU669-21" value="等等......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="673.25" y="1320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ni6QwDA9w7rpbr3JU669-22" value="企业产业链数据&lt;br&gt;&lt;br&gt;专精特新等优质企业/主导产业/产业链企业" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-22" value="企业产业链数据&lt;br&gt;&lt;br&gt;专精特新等优质企业/主导产业/产业链企业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="1090" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-24" value="企业征信数据&lt;br&gt;&lt;br&gt;企业贷款/抵押/征信等信息/违法行为处罚信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1090" width="153.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ni6QwDA9w7rpbr3JU669-26" value="科学技术信息&lt;br&gt;&lt;br&gt;高新技术/研发中心/研发平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ni6QwDA9w7rpbr3JU669-26" value="科学技术信息&lt;br&gt;&lt;br&gt;高新技术/研发中心/研发平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="744" y="1090" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-27" value="现阶段都是招商政策？&lt;br&gt;是否有包含其他维度政策" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
