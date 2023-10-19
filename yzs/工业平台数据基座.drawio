@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T07:13:09.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0Sn9g-2vrgImr13S2Bbk" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T09:08:00.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="g2ML93HWQr27C6K1rgN2" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
-    <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1637" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
             <mxPoint x="383.1199999999999" y="277.6899999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yWDx3WJLYbUsVVYtLUWM-2" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集/上报服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;report_data_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yWDx3WJLYbUsVVYtLUWM-2" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集/上报服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;report_company_info&lt;br&gt;report_data_info" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="221.99" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ni6QwDA9w7rpbr3JU669-1" value="企业基本数据&lt;br&gt;&lt;br&gt;企业注册信息/专利信息/不动产信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
