@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:38:06.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="w8IcRCjBZ2gMUWAGJPrz" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:38:19.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SUktQ0L7TKhJZxTGsAzy" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -399,26 +399,13 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-96" value="数据查询API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3465.7000000000003" y="670.0600000000001" width="90" height="49.88" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-98" target="1SE_jWrrDIv0ONDhs8Yy-101">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3815" y="575" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-98" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3755" y="664.9999999999999" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-101" target="1SE_jWrrDIv0ONDhs8Yy-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-101" target="1SE_jWrrDIv0ONDhs8Yy-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-101" value="读取企业信息&lt;br&gt;读取企业经营信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3755" y="515" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-102" value="企业库信息更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3645" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-103" value="企业能耗数据新增" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3855" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-105" value="mongodb&lt;br&gt;&lt;br&gt;政务网政策&lt;br&gt;zw_policy" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" vertex="1" parent="1">
           <mxGeometry x="3240" y="288.11" width="90" height="109.01" as="geometry" />
