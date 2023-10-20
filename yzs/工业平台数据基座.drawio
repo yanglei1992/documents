@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:19:18.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="h3oCxKFH6yIN6QUvAqnQ" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:20:25.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R8eVo6jYyJFhalIBx6hx" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,55 +223,20 @@
         <mxCell id="bBOoKxX_dk00QMiVEn9z-45" value="工商信息&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="739" y="72.62" width="175" height="627.38" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-46" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-46" value="供应链信息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="934" y="194.61" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-47" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-47" value="......." style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="934" y="412.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-48" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-48" value="资产信息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="934" y="312.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBOoKxX_dk00QMiVEn9z-49" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="bBOoKxX_dk00QMiVEn9z-49" value="研发信息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="934" y="87.62" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LPctHTdcvew_OnTX13Tw-1" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:48pt&quot; width=&quot;64&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;width:48pt&quot; width=&quot;64&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt;width:48pt&quot; width=&quot;64&quot; height=&quot;19&quot;&gt;企业名称&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;统一社会信用代码&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;法定代表人&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;登记状态&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;成立日期&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;注册资本&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;实缴资本&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;工商注册号&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;组织机构代码&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;纳税人识别号&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;企业类型&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;营业期限&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;纳税人资质&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;人员规模&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;参保人数&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;核准日期&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;所属地区&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;登记机关&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;税务等级&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;所属行业&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;英文名字&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;注册地址&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;经营范围&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;企业经度&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;企业维度&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;行政许可信息&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;用工人数&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;管理人数&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.0pt&quot; height=&quot;19&quot;&gt;技能人才数&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="761.5" y="100.12" width="130" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-5" value="经济运行平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="394.51" width="510" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=118;endSize=12.14;width=50;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="530" as="sourcePoint" />
-            <mxPoint x="520" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-7" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1SE_jWrrDIv0ONDhs8Yy-6">
-          <mxGeometry x="-0.2532" y="2" relative="1" as="geometry">
-            <mxPoint x="-4" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-9" value="定时任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="500" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-10" value="企业信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="440" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-11" value="企业运行数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-9" target="1SE_jWrrDIv0ONDhs8Yy-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="420" as="sourcePoint" />
-            <mxPoint x="640" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1SE_jWrrDIv0ONDhs8Yy-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="530" as="sourcePoint" />
-            <mxPoint x="470" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-17" value="&lt;b&gt;爬虫服务&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040.0000000000002" y="151.99" width="120" height="60" as="geometry" />
