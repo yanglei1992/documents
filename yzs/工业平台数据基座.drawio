@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:51:17.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DqJlbJk6Wr3UEiAne3r6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:52:55.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Gao_U3o3tApmZAeJn8cX" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -465,17 +465,29 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-129" value="时间倒排查询政策列表&lt;br&gt;（可按照同步状态过滤）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3722" y="951.7099999999999" width="150" height="55.73" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-132" value="编辑并发布政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-132" target="1SE_jWrrDIv0ONDhs8Yy-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-132" value="编辑清洗库的政策&lt;br&gt;并新增到业务库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3722.5" y="873.69" width="150" height="45.82" as="geometry" />
         </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-135" target="1SE_jWrrDIv0ONDhs8Yy-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-135" value="政策业务库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="3752" y="725" width="90" height="82" as="geometry" />
+          <mxGeometry x="3752" y="738" width="90" height="82" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-132" target="1SE_jWrrDIv0ONDhs8Yy-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-137" value="修改API&lt;br&gt;修改政策同步状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3360" y="796.51" width="100" height="53.49" as="geometry" />
+          <mxGeometry x="3357.5" y="873.45" width="105" height="46.31" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-137" target="1SE_jWrrDIv0ONDhs8Yy-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-140" value="编辑政策/政策拆解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="634.3000000000001" width="150" height="45.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
