@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T07:02:07.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Q0tzev8lVk6Mag1QX_Bq" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T07:02:24.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Oi5ihH8ZNynTvXet4Zc-" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1849" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,6 +487,14 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-135" target="1SE_jWrrDIv0ONDhs8Yy-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-135" target="1SE_jWrrDIv0ONDhs8Yy-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3660" y="779" />
+              <mxPoint x="3660" y="538" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-135" value="政策业务库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="3752" y="738" width="90" height="82" as="geometry" />
         </mxCell>
@@ -512,6 +520,9 @@
               <mxPoint x="3930" y="779" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-150" value="政策列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3733" y="515" width="128" height="45.82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
