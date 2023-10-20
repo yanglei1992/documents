@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:49:49.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VhtD_xPRKIa3HEAWadUB" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:49:58.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-ax16huG_lddJjYGXbcD" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
           <mxGeometry x="2200" y="585" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-40" value="企业信息是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870.61" y="600" width="133" height="70" as="geometry" />
+          <mxGeometry x="1877.6" y="585" width="133" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
