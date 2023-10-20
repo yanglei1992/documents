@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:37:57.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pQDPetI09czP7jx98Kbh" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:38:06.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="w8IcRCjBZ2gMUWAGJPrz" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -375,12 +375,6 @@
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-87" value="数据清洗服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3100" y="472.62" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-89" target="1SE_jWrrDIv0ONDhs8Yy-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-89" value="经济运行平台提供&lt;br&gt;&lt;br&gt;所有企业的名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3625" y="151.99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-91" target="1SE_jWrrDIv0ONDhs8Yy-96">
           <mxGeometry relative="1" as="geometry" />
