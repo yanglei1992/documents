@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:50:08.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fxML4i_h16mQx8pIT0Q9" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:50:20.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JoZ-wSF3-hzz0pIg8ssU" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,9 +298,6 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-18" target="1SE_jWrrDIv0ONDhs8Yy-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-26" target="1SE_jWrrDIv0ONDhs8Yy-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-26" value="数据清洗服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1877.6" y="472.62" width="120" height="60" as="geometry" />
         </mxCell>
@@ -311,7 +308,7 @@
           <mxGeometry x="2338.59" y="151.99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-34" value="清洗库&lt;br&gt;&lt;br&gt;企业信息静态" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="585" width="80" height="90" as="geometry" />
+          <mxGeometry x="2130" y="532.62" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-40" value="企业信息是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870.61" y="595" width="133" height="70" as="geometry" />
