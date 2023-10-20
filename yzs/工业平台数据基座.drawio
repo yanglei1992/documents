@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:33:20.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="DDzxZlbS0N3PxBJoDT1I" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T06:33:58.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zlNmRjBzzGo13yPeXV6W" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-74" value="政策大脑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3585" y="100" width="425" height="750" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-75" value="&lt;b&gt;爬虫服务&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-75" value="&lt;b&gt;爬虫服务&lt;/b&gt;&lt;br&gt;每一个网站都需要一个数据库保存数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3275" y="151.99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-76" target="1SE_jWrrDIv0ONDhs8Yy-82">
