@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:38:16.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZE1HMJFoj127Sh9mw_j3" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:43:04.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3z5LgTU2WM-dWOOQ_gY_" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,14 +261,29 @@
             <mxPoint x="470" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-17" value="&lt;b&gt;爬虫服务&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2067.01" y="151.99" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-17" value="&lt;b&gt;爬虫服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;ssc_company_info&lt;br&gt;tyc_company_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="30.000000000000014" width="140" height="100" as="geometry" />
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-18" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集/上报服务&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="147.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-18" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集/上报服务&lt;br&gt;mongodb&lt;br&gt;&lt;/b&gt;&lt;br&gt;report_company_info&lt;br&gt;report_data_info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="30" width="145" height="100" as="geometry" />
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-20" value="mongodb&lt;br&gt;&lt;br&gt;各局上报的企业信息&lt;br&gt;report_company_info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="330.99" width="119.01" height="109.01" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-21" value="mongodb&lt;br&gt;&lt;br&gt;ssc爬取企业信息&lt;br&gt;ssc_company_info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="324.37" width="119.01" height="109.01" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-22" value="mongodb&lt;br&gt;&lt;br&gt;各局上报的企业数据&lt;br&gt;report_data_info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="331.8" width="119.01" height="109.01" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-17" target="1SE_jWrrDIv0ONDhs8Yy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.432;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-18" target="1SE_jWrrDIv0ONDhs8Yy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-18" target="1SE_jWrrDIv0ONDhs8Yy-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
