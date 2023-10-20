@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:45:34.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hDFSQISyznGk-q0xsXDS" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:45:40.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Y_yf6EHaJseEJ1T9fz8T" version="22.0.4" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-18" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;数据采集/上报服务&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="147.62" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-20" target="1SE_jWrrDIv0ONDhs8Yy-26">
+        <mxCell id="1SE_jWrrDIv0ONDhs8Yy-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" edge="1" parent="1" source="1SE_jWrrDIv0ONDhs8Yy-20" target="1SE_jWrrDIv0ONDhs8Yy-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-20" value="mongodb&lt;br&gt;&lt;br&gt;各局上报的企业信息&lt;br&gt;report_company_info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=east;" vertex="1" parent="1">
