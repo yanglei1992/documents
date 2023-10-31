@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:47:41.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LmoDiDQWPgk2dhR2733O" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:50:41.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aTw8hvgvogJ7wapvr8_A" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -531,10 +531,10 @@
           <mxGeometry x="505.5" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-11" value="IOT云平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="323.25" y="3340" width="386.75" height="290" as="geometry" />
+          <mxGeometry x="323.25" y="3340" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-12" value="IOT云平台&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="3340" width="320" height="120" as="geometry" />
+        <mxCell id="343EqQbmtwf3mCMUIi-b-12" value="专网" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="830" y="3340" width="400" height="300" as="geometry" />
         </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-13" value="企业数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="3370" width="86" height="40" as="geometry" />
