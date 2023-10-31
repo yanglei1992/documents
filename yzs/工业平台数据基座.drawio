@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:44:40.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cicaGQ459e9jf2SKXuTe" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:44:53.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EIDsyf1szYKpaQKzQPRF" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1637" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -524,17 +524,8 @@
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-150" value="政策列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3733" y="515" width="128" height="45.82" as="geometry" />
         </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-5" value="数据流转" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="2990" width="1010" height="610" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-6" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="343EqQbmtwf3mCMUIi-b-5">
-          <mxGeometry y="20" width="320" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-7" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="343EqQbmtwf3mCMUIi-b-5">
-          <mxGeometry x="320" y="20" width="300" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-8" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="343EqQbmtwf3mCMUIi-b-5">
-          <mxGeometry x="620" y="20" width="390" height="590" as="geometry" />
+        <mxCell id="343EqQbmtwf3mCMUIi-b-9" value="企业基础数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="3000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
