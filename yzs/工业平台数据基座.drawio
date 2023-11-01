@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:31:27.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="sQf5XXmpiyuoyD2eKN9A" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:31:31.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="f3k9mdyLRlgL5iKEnR_o" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -804,25 +804,25 @@
           <mxGeometry x="382.05" y="4926" width="125.87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-81" value="industrial-data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="365.74" y="5000" width="160" height="200" as="geometry" />
+          <mxGeometry x="364.74" y="5000" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-83" value="company_info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5060" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5060" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-84" value="company_filing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5080" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5080" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-85" value="company_lawsuit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5100" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5100" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-90" value="company_penalty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5120" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5120" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-91" value="company_env_penalty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5140" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5140" width="127" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-92" value="company_chattel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382.24" y="5160" width="127" height="20" as="geometry" />
+          <mxGeometry x="381.24" y="5160" width="127" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
