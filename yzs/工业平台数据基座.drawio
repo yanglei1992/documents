@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:26:40.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nM5IG_wODvagSkCZFCgT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:27:56.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HZhskZpl_WOjDjSVwSBN" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -803,8 +803,11 @@
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-79" value="遍历满足条件数据&lt;br&gt;数据入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="366.81" y="4910" width="125.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-81" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="5000" width="140.26" height="110" as="geometry" />
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-81" value="industrial-data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="5000" width="140.26" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-83" value="company_info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382.24" y="5060" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
