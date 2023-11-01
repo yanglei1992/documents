@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:03:41.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PU1QYFWYCce6P5sJrcn7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:05:44.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LPeGSrgLKck1zRPldmFQ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -630,28 +630,28 @@
           <mxGeometry x="1054" y="3796.25" width="149.25" height="103.75" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-24" value="商商查" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="140" y="3936" width="200" height="156" as="geometry" />
+          <mxGeometry x="125" y="3820" width="200" height="156" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-25" value="企业工商数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3960" width="90" height="30" as="geometry" />
+          <mxGeometry x="135" y="3844" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-26" value="企业立案数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3990" width="90" height="30" as="geometry" />
+          <mxGeometry x="135" y="3874" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-27" value="企业行政处罚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3960" width="90" height="30" as="geometry" />
+          <mxGeometry x="225" y="3844" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-28" value="企业环保处罚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3990" width="90" height="30" as="geometry" />
+          <mxGeometry x="225" y="3874" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-29" value="企业动产抵押" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="4020" width="90" height="30" as="geometry" />
+          <mxGeometry x="225" y="3904" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-30" value="企业裁判文书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="4020" width="90" height="30" as="geometry" />
+          <mxGeometry x="135" y="3904" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-31" value="知识产权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="4050" width="90" height="30" as="geometry" />
+          <mxGeometry x="135" y="3934" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-32" value="企业工商数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152" y="4223" width="80" height="20" as="geometry" />
@@ -678,7 +678,28 @@
           <mxGeometry x="245.25" y="4284" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-40" value="各局网站政策" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="380" y="4056" width="200" height="36" as="geometry" />
+          <mxGeometry x="365" y="3940" width="200" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-41" value="mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4050" width="490" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-42" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4113" width="490" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-43" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4360" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.479;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.477;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-42" target="qm7qbqwN8gKfw2BCIRjX-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4167" as="sourcePoint" />
+            <mxPoint x="360" y="4150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.485;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.483;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-13" target="qm7qbqwN8gKfw2BCIRjX-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="4320" as="sourcePoint" />
+            <mxPoint x="366" y="4369" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
