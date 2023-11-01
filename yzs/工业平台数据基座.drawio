@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:18:44.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bU0gv-6BwjjUPXwvI_fJ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:21:24.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OrcPgBv4ojyCAIC7XLRv" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -765,6 +765,9 @@
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-67" value="数据清洗1 （企业数据清洗）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="4600" width="680" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-68" value="定时任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="4650" width="165" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
