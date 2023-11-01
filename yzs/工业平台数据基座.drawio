@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:42:57.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="zlLqkyU1SKeVdbGD7cez" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:46:26.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UN2tl4dlysrW3dVsNK_0" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -879,7 +879,7 @@
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-150" value="政策库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1133.25" y="3944" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-151" target="qm7qbqwN8gKfw2BCIRjX-152">
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-151" target="qm7qbqwN8gKfw2BCIRjX-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-154" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qm7qbqwN8gKfw2BCIRjX-153">
@@ -888,22 +888,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-151" value="政务网政策服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="4750" width="123" height="30" as="geometry" />
+          <mxGeometry x="956.5" y="4766" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-152" target="qm7qbqwN8gKfw2BCIRjX-156">
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-152" target="qm7qbqwN8gKfw2BCIRjX-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-152" value="工业平台云&lt;br&gt;（数据交换服务）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="4820" width="123" height="42" as="geometry" />
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-152" value="政策列表查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="4802" width="117" height="34" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-156" target="qm7qbqwN8gKfw2BCIRjX-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-156" value="政策列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030.5" y="4890" width="120" height="30" as="geometry" />
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-160" target="qm7qbqwN8gKfw2BCIRjX-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-160" target="qm7qbqwN8gKfw2BCIRjX-169">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-160" value="审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1037.5" y="4960" width="106" height="30" as="geometry" />
+          <mxGeometry x="965" y="4916" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-163" value="政务网政策服务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="942" y="4726" width="200" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-156" value="政策列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qm7qbqwN8gKfw2BCIRjX-163">
+          <mxGeometry x="16" y="134" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-165" value="主题库&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="qm7qbqwN8gKfw2BCIRjX-163">
+          <mxGeometry x="14" y="254" width="124" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-166" value="政策库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qm7qbqwN8gKfw2BCIRjX-163">
+          <mxGeometry x="38" y="308" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-164" value="工业云平台（数据交换服务）" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="4726" width="200" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-169" value="修改政策同步状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qm7qbqwN8gKfw2BCIRjX-164">
+          <mxGeometry x="57" y="188" width="117" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
