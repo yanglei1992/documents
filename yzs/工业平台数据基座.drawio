@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:11:27.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="05BR61RhMzve0o_7Npa7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:13:14.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bS_HGJqZyQz-8tSeXEOR" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -701,8 +701,8 @@
             <mxPoint x="366" y="4369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-49" value="爬虫" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="4000" width="345" height="22" as="geometry" />
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-49" value="爬虫服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="4000" width="345" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -720,6 +720,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="297" y="4019" as="sourcePoint" />
             <mxPoint x="297" y="4069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-54" value="政务互联网数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="3800" width="130" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-55" value="待定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="3840" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-56" value="数据采集服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504.25" y="4000" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="573.25" y="3950" as="sourcePoint" />
+            <mxPoint x="573.25" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="573.25" y="4020" as="sourcePoint" />
+            <mxPoint x="573.25" y="4070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
