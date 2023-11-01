@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T10:15:32.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="z3hH9GKf_CA9AeG3ewbN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T10:16:05.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rg3uhW9lzW__0wNDQr-Q" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -547,9 +547,6 @@
         <mxCell id="343EqQbmtwf3mCMUIi-b-12" value="基础库（政务网）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="729" y="4020" width="560" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-15" value="工业平台云端数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="690" y="4520" width="291" height="115" as="geometry" />
-        </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-16" value="政务内网数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1055" y="4168" width="235" height="115" as="geometry" />
         </mxCell>
@@ -577,32 +574,11 @@
         <mxCell id="343EqQbmtwf3mCMUIi-b-26" value="企业工商数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1068.25" y="4238" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-29" value="企业工商数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="701.75" y="4530" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-30" value="企业涉诉数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="796.75" y="4530" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-32" value="数据清洗2（（政务网数据采集服务）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="4084.5" width="559" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-33" value="企业产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="893.25" y="4530" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-35" value="政策数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="796.75" y="4561" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-36" value="金融数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="893.25" y="4561" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-37" value="产业链数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="701.75" y="4591" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-38" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1157.5" y="4238" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="343EqQbmtwf3mCMUIi-b-39" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="4591" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="343EqQbmtwf3mCMUIi-b-40" value="企业档案库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="744" y="3976" width="80" height="20" as="geometry" />
@@ -922,9 +898,6 @@
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-172" value="企业舆情" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="4264" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-174" value="企业舆情" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="701.75" y="4560" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-175" value="专题库(企业扶持)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1164" y="3800" width="125" height="100" as="geometry" />
