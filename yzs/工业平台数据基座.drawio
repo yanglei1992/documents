@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T01:42:09.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6xS5kOZso6DesiwQlr_E" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T01:42:15.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8A6GDHrZOG_xKh31d08_" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-13" value="云端工业平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="111" y="3869.75" width="490" height="482" as="geometry" />
+          <mxGeometry x="111" y="3840" width="490" height="511.75" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; 数据清洗服务&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1695" y="440" width="635" height="410" as="geometry" />
