@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T02:38:02.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9iL8bAfI4_w2DvU47AbE" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T02:39:10.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0vV8RFYxZqTi_q7rG3MO" version="22.0.8" type="github">
   <diagram name="第 1 页" id="4M4HZLaa6iFDXuhIEwjB">
     <mxGraphModel dx="1321" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-15" value="主题库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="729" y="3920" width="560" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="qm7qbqwN8gKfw2BCIRjX-13" value="云端工业平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-13" value="云端工业平台（数据交换服务）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="140" y="4190" width="490" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1SE_jWrrDIv0ONDhs8Yy-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; 数据清洗服务&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" parent="1" vertex="1">
@@ -878,6 +878,20 @@
         </mxCell>
         <mxCell id="qm7qbqwN8gKfw2BCIRjX-150" value="政策库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1133.25" y="3944" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qm7qbqwN8gKfw2BCIRjX-151" target="qm7qbqwN8gKfw2BCIRjX-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-154" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qm7qbqwN8gKfw2BCIRjX-153">
+          <mxGeometry x="-0.2249" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-151" value="政务网政策服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="4750" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qm7qbqwN8gKfw2BCIRjX-152" value="工业平台云&lt;br&gt;（数据交换服务）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="4828" width="123" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
