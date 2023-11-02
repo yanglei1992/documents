@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T10:34:08.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iWZdy9ko8F-uV4ogKI8a" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T10:34:57.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JbhmuTAmhzYEbs42PzWR" version="22.0.8" type="github">
   <diagram name="第 1 页" id="-oRvCiJH-ccSd-tmdgWp">
     <mxGraphModel dx="665" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,15 @@
         </mxCell>
         <mxCell id="prTjhhe098Utsomd_alY-76" value="用户手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1630" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="prTjhhe098Utsomd_alY-78" value="用户邮箱号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1630" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="prTjhhe098Utsomd_alY-79" value="用户邮箱号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1670" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="prTjhhe098Utsomd_alY-80" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1540" width="279" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
