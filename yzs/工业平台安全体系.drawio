@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T10:28:00.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pQkGlUJ4e0RXBWmqS7Yu" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T10:34:16.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rzHHwcHlosLw3h5-9uCe" version="22.0.8" type="github">
   <diagram name="第 1 页" id="-oRvCiJH-ccSd-tmdgWp">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,6 +252,27 @@
         </mxCell>
         <mxCell id="Nrvl6zfBXPGPtViw-RI1-29" value="密码MD5两次加密" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="376.5" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nrvl6zfBXPGPtViw-RI1-65" target="Nrvl6zfBXPGPtViw-RI1-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-65" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="1840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nrvl6zfBXPGPtViw-RI1-66" target="Nrvl6zfBXPGPtViw-RI1-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nrvl6zfBXPGPtViw-RI1-66" target="Nrvl6zfBXPGPtViw-RI1-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-66" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-68" value="服务器资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-70" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1930" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
