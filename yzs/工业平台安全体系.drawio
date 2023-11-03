@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T10:34:51.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lEJpo15StsQ_lNRu2lEt" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T10:35:08.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HQYfP0duv2cA7y_V46yl" version="22.0.8" type="github">
   <diagram name="第 1 页" id="-oRvCiJH-ccSd-tmdgWp">
     <mxGraphModel dx="1397" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,8 +274,8 @@
         <mxCell id="Nrvl6zfBXPGPtViw-RI1-70" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1930" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Nrvl6zfBXPGPtViw-RI1-73" value="时间、用户标识、操作类型、目标资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1930" width="230" height="30" as="geometry" />
+        <mxCell id="Nrvl6zfBXPGPtViw-RI1-73" value="异步生成&lt;br&gt;时间、用户标识、操作类型、目标资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="361" y="1920" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
