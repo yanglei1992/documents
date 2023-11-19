@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T03:53:15.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AEuJ0TMaBB_MtcpANDcf" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T03:53:56.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="he_EbY9bREt3A9mfbdZ2" version="22.1.3" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
-    <mxGraphModel dx="2471" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,6 +662,12 @@
         <mxCell id="gBWArvIDeeEikkrldoBi-12" value="企业订阅政策消息生成" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1710" width="638.9999999999995" height="550" as="geometry" />
         </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.016;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.976;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-14" target="gBWArvIDeeEikkrldoBi-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99.99999999999955" y="75" as="sourcePoint" />
+            <mxPoint x="269.99999999999955" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-13" value="运营人员" style="swimlane;startSize=20;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-12">
           <mxGeometry y="20" width="120" height="530" as="geometry" />
         </mxCell>
@@ -669,13 +675,7 @@
           <mxGeometry x="29.499999999999545" y="40" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-56" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-13">
-          <mxGeometry x="9.999999999999545" y="155" width="61" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gBWArvIDeeEikkrldoBi-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.016;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.976;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-14" target="gBWArvIDeeEikkrldoBi-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="99.99999999999955" y="75" as="sourcePoint" />
-            <mxPoint x="269.99999999999955" y="45" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="29.499999999999545" y="155" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-18" value="政策服务" style="swimlane;startSize=20;html=1;aspect=fixed;" vertex="1" parent="gBWArvIDeeEikkrldoBi-12">
           <mxGeometry x="120" y="20" width="289.99999999999955" height="530" as="geometry" />
@@ -722,11 +722,6 @@
         <mxCell id="gBWArvIDeeEikkrldoBi-71" value="subscribe_message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-39">
           <mxGeometry x="44.000000000000455" y="455" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gBWArvIDeeEikkrldoBi-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="69.99999999999955" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-60" target="gBWArvIDeeEikkrldoBi-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -734,6 +729,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-68" target="gBWArvIDeeEikkrldoBi-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.989;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-54" target="gBWArvIDeeEikkrldoBi-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
