@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T03:52:28.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tFo0ovaC0N88qNvmAmfb" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T03:53:04.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pb_Pf_GO7lD50v01npZy" version="22.1.3" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -701,8 +701,14 @@
         <mxCell id="gBWArvIDeeEikkrldoBi-60" value="生成免申即享审核信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-18">
           <mxGeometry x="100" y="250" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-18" source="gBWArvIDeeEikkrldoBi-64" target="gBWArvIDeeEikkrldoBi-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-64" value="生成免申即享消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-18">
           <mxGeometry x="100" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-68" value="生成短信发送消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-18">
+          <mxGeometry x="100" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-39" value="mysql" style="swimlane;startSize=20;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-12">
           <mxGeometry x="409.99999999999955" y="20" width="229" height="840" as="geometry" />
@@ -713,6 +719,9 @@
         <mxCell id="gBWArvIDeeEikkrldoBi-65" value="system服务&lt;br&gt;message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-39">
           <mxGeometry x="68.00000000000045" y="350" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-71" value="subscribe_message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gBWArvIDeeEikkrldoBi-39">
+          <mxGeometry x="44.000000000000455" y="455" width="130" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="69.99999999999955" y="190" as="targetPoint" />
@@ -722,6 +731,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-64" target="gBWArvIDeeEikkrldoBi-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gBWArvIDeeEikkrldoBi-12" source="gBWArvIDeeEikkrldoBi-68" target="gBWArvIDeeEikkrldoBi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
