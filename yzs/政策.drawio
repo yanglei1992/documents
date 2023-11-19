@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T05:02:06.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sKYIJWTs7neM5Riv4sBh" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T05:02:22.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fsWkkCFau6zHPfQ2eAAP" version="22.1.3" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="1991" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gBWArvIDeeEikkrldoBi-82" value="政策短信/邮件发送逻辑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1190" width="460" height="350" as="geometry" />
+          <mxGeometry x="310" y="1190" width="460" height="470" as="geometry" />
         </mxCell>
         <mxCell id="bisRe-8OawZfb11u8gYM-2" value="policy_info&lt;br&gt;政策基础信息表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-120" width="200" height="420" as="geometry" />
