@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T05:38:44.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="J_U7I_dV1VGAwqj6Nd1G" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-19T05:38:49.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Nf-iglYgC3C59QUEH5d3" version="22.1.3" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="1991" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,6 +351,9 @@
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-129" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="7U41KO869kOjIQt08ySt-2">
           <mxGeometry x="29.499999999999545" y="440" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gBWArvIDeeEikkrldoBi-131" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7U41KO869kOjIQt08ySt-2">
+          <mxGeometry x="50.499999999999545" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7U41KO869kOjIQt08ySt-3" value="政策服务" style="swimlane;startSize=20;html=1;aspect=fixed;" parent="7U41KO869kOjIQt08ySt-1" vertex="1">
           <mxGeometry x="120" y="20" width="289.99999999999955" height="500" as="geometry" />
@@ -817,9 +820,6 @@
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-128" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="2068" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gBWArvIDeeEikkrldoBi-131" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2008" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
