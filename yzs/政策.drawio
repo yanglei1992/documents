@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T10:40:37.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oPlOGJqK6pz7rtp6Idqk" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:48:03.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="j9dIFIqVzR8-OKxhy-Jp" version="22.1.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2460" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-4" value="3：申报结束前三天通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504.13" y="4220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-5" value="4：拆解命中通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-5" value="4：政策修改通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504.13" y="4280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -849,73 +849,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-9" value="定时任务&lt;br&gt;createMessageHandler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="4510" width="146" height="60" as="geometry" />
+          <mxGeometry x="230" y="4494" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-10" value="1：发布通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="4440" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="4424" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-11" value="2：申报开始通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="4500" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="4484" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-12" value="3：申报结束前三天通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="4560" width="120" height="60" as="geometry" />
+          <mxGeometry x="483" y="4544" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="4539.5" as="sourcePoint" />
-            <mxPoint x="487" y="4539.5" as="targetPoint" />
+            <mxPoint x="383" y="4523.5" as="sourcePoint" />
+            <mxPoint x="483" y="4523.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="611.12" y="4469.5" as="sourcePoint" />
-            <mxPoint x="780" y="4469.5" as="targetPoint" />
+            <mxPoint x="607.12" y="4453.5" as="sourcePoint" />
+            <mxPoint x="776" y="4453.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-15" value="subscribe_message&lt;br&gt;subscribe_notice_type = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782.07" y="4436" width="202.93" height="60" as="geometry" />
+          <mxGeometry x="778.07" y="4420" width="202.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-16" value="subscribe_message&lt;br&gt;subscribe_notice_type = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782.07" y="4496" width="202.93" height="60" as="geometry" />
+          <mxGeometry x="778.07" y="4480" width="202.93" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-17" value="subscribe_message&lt;br&gt;subscribe_notice_type = 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="782.07" y="4556" width="202.93" height="60" as="geometry" />
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-17" value="subscribe_message&lt;br&gt;subscribe_notice_type = 3" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="778.07" y="4540" width="202.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="608" y="4529.5" as="sourcePoint" />
-            <mxPoint x="776.88" y="4529.5" as="targetPoint" />
+            <mxPoint x="604" y="4513.5" as="sourcePoint" />
+            <mxPoint x="772.88" y="4513.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="607" y="4589.5" as="sourcePoint" />
-            <mxPoint x="775.88" y="4589.5" as="targetPoint" />
+            <mxPoint x="603" y="4573.5" as="sourcePoint" />
+            <mxPoint x="771.88" y="4573.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-20" value="界面指标拆解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="4650" width="146" height="60" as="geometry" />
+          <mxGeometry x="228" y="4690" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-21" value="4：拆解命中通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="4650" width="120" height="60" as="geometry" />
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-21" value="0：拆解命中通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="4690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-22" value="subscribe_message&lt;br&gt;subscribe_notice_type = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="779.07" y="4650" width="202.93" height="60" as="geometry" />
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-22" value="subscribe_message&lt;br&gt;subscribe_notice_type = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777.07" y="4690" width="202.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609" y="4679.5" as="sourcePoint" />
-            <mxPoint x="777.88" y="4679.5" as="targetPoint" />
+            <mxPoint x="607" y="4719.5" as="sourcePoint" />
+            <mxPoint x="775.88" y="4719.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="382" y="4679.5" as="sourcePoint" />
-            <mxPoint x="482" y="4679.5" as="targetPoint" />
+            <mxPoint x="380" y="4719.5" as="sourcePoint" />
+            <mxPoint x="480" y="4719.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-26" value="发送短信" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="4800" width="1090" height="360" as="geometry" />
+          <mxGeometry x="200" y="4800" width="1090" height="420" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-27" value="定时任务&lt;br&gt;sendMessageHandler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="4920" width="146" height="60" as="geometry" />
@@ -929,8 +929,59 @@
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-30" value="subscribe_message&lt;br&gt;subscribe_notice_type = 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476.0400000000001" y="5050" width="202.93" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-31" value="subscribe_message&lt;br&gt;subscribe_notice_type = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-31" value="subscribe_message&lt;br&gt;subscribe_notice_type = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475.0700000000001" y="4963" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-32" value="subscribe_message_send&lt;br&gt;send_template =&amp;nbsp;1374 &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4900" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-33" value="4：政策修改通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="4604" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-34" value="subscribe_message&lt;br&gt;subscribe_notice_type = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="778.07" y="4604" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.19" y="4633.5" as="sourcePoint" />
+            <mxPoint x="778.07" y="4633.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-36" value="subscribe_message&lt;br&gt;subscribe_notice_type = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.0400000000001" y="5130" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-37" value="subscribe_message_send&lt;br&gt;send_template =&amp;nbsp;1379" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="5040" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-38" value="subscribe_message_send&lt;br&gt;send_template =&amp;nbsp;1378" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="5140" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A2FMBmHC_9ZE1Jm3bcl5-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="4930" as="sourcePoint" />
+            <mxPoint x="740" y="4880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-40" value="一个企业一天一条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="4880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-41" value="一个企业一天一条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="5023" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691.5" y="5071" as="sourcePoint" />
+            <mxPoint x="798.5" y="5069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.013;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703" y="5161" as="sourcePoint" />
+            <mxPoint x="810" y="5159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-44" value="一个企业一天多条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="5120" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
