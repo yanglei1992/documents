@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T10:38:01.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7a4Cr3-13ebbbc9T8kmn" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:39:49.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zI1NBrvoo_cwYq1oulpi" version="22.1.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="4062" width="490" height="298" as="geometry" />
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-25" value="生产订阅的消息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4390" width="885" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-8" value="用户订阅" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="217" y="4070" width="490" height="298" as="geometry" />
         </mxCell>
         <mxCell id="gBWArvIDeeEikkrldoBi-82" value="政策短信/邮件发送逻辑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="1000" width="610" height="650" as="geometry" />
@@ -910,6 +913,24 @@
             <mxPoint x="382" y="4679.5" as="sourcePoint" />
             <mxPoint x="482" y="4679.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-26" value="发送短信" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4800" width="1090" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-27" value="定时任务&lt;br&gt;sendMessageHandler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="4920" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-28" value="subscribe_message&lt;br&gt;subscribe_notice_type = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475.0400000000001" y="4843" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-29" value="subscribe_message&lt;br&gt;subscribe_notice_type = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475.0400000000001" y="4903" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-30" value="subscribe_message&lt;br&gt;subscribe_notice_type = 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.0400000000001" y="5050" width="202.93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-31" value="subscribe_message&lt;br&gt;subscribe_notice_type = 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.0700000000001" y="4963" width="202.93" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
