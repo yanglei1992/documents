@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T10:33:34.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WfSEhzwc2i_yBW1TFZXS" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:33:59.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ys0uyVFk_ms-BMEM0TYI" version="22.1.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -822,19 +822,19 @@
           <mxGeometry x="430" y="2068" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-1" value="用户订阅政策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="514.25" y="4140" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="4170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-2" value="发布通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="4280" width="120" height="60" as="geometry" />
+          <mxGeometry x="504.13" y="4100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-3" value="申报开始通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="4280" width="120" height="60" as="geometry" />
+          <mxGeometry x="504.13" y="4160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-4" value="申报结束前三天通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="631" y="4280" width="120" height="60" as="geometry" />
+          <mxGeometry x="504.13" y="4220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-5" value="拆解命中通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="4280" width="120" height="60" as="geometry" />
+          <mxGeometry x="504.13" y="4280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
