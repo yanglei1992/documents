@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T10:50:48.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ejB5QnVu2ydfq2bnVElN" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:58:26.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o5RcVsoQrtVizAmo7Dik" version="22.1.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
-    <mxGraphModel dx="2748" dy="2401" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,14 +980,17 @@
             <mxPoint x="810" y="5159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-44" value="一个企业一天一条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-44" value="一个企业一天多条" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="5120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-45" value="生产免申即享申请消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="4500" width="120" height="60" as="geometry" />
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-45" value="政策为免申即享&lt;br&gt;（生产一条申报信息）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="4600" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-46" value="生产免申即享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="4590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="4520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-49" value="生成精准推送消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="4690" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
