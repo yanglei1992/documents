@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T10:34:47.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tNnxSd0BiBv2EX7UZF7D" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:34:54.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hl5PX6RGvpyWk3pDugF3" version="22.1.4" type="github">
   <diagram name="第 1 页" id="2xM9Q4XmKQ3uE5KLnZdW">
     <mxGraphModel dx="2224" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -835,6 +835,12 @@
         </mxCell>
         <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-5" value="4：拆解命中通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504.13" y="4280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2FMBmHC_9ZE1Jm3bcl5-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="4200" as="sourcePoint" />
+            <mxPoint x="490" y="4200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
