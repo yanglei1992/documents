@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T01:45:58.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7c4p_LZjdrVjLOxlhL2M" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T01:46:08.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ENY-15cQZMNes-SDuD5J" version="22.1.5" type="github">
   <diagram name="第 1 页" id="nDJeiQn_vbXoL-LKO_qn">
     <mxGraphModel dx="950" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jhgf9c-tjNfLPKI3-h3G-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QZAkLel1-v3yUueqWGMr-1" value="ftp服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
