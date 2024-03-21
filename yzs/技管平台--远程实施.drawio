@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T01:49:06.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ygkQDBz4lEXwPM5K6h4t" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T01:49:33.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YtBmWmx6pARi0k_VIwtn" version="24.0.2" type="github">
   <diagram name="第 1 页" id="WnFoVOCNcByE03xFzpFk">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wuZvDj9s8fZifpbFYdYD-1" value="离线词远程实施" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="580" height="320" as="geometry" />
+          <mxGeometry x="10" y="80" width="800" height="320" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-7" value="空间(查询默认包含子空间)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wuZvDj9s8fZifpbFYdYD-1">
           <mxGeometry x="300" y="70" width="105" height="30" as="geometry" />
@@ -19,8 +19,8 @@
         <mxCell id="wuZvDj9s8fZifpbFYdYD-58" value="查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wuZvDj9s8fZifpbFYdYD-1">
           <mxGeometry x="460" y="65" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="wuZvDj9s8fZifpbFYdYD-64" value="推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wuZvDj9s8fZifpbFYdYD-1">
-          <mxGeometry x="460" y="110" width="70" height="25" as="geometry" />
+        <mxCell id="wuZvDj9s8fZifpbFYdYD-64" value="推送(选中后推送)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="wuZvDj9s8fZifpbFYdYD-1">
+          <mxGeometry x="500" y="120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-2" value="离线词列表" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="10" y="430" width="810" height="290" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="660" y="40" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="420" height="160" as="geometry" />
+          <mxGeometry x="30" y="220" width="420" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wuZvDj9s8fZifpbFYdYD-13">
           <mxGeometry width="420" height="40" as="geometry" />
@@ -481,16 +481,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="240" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="280" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="320" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wuZvDj9s8fZifpbFYdYD-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="10" height="10" as="geometry" />
+          <mxGeometry x="50" y="350" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
